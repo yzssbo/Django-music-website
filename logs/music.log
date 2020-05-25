@@ -1,0 +1,64 @@
+INFO 2020-05-25 07:16:24,648 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-25 07:16:33,864 basehttp 154 "GET / HTTP/1.1" 200 24788
+INFO 2020-05-25 07:16:33,904 basehttp 154 "GET /static/css/common.css HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:33,910 basehttp 154 "GET /static/css/index.css HTTP/1.1" 304 0
+WARNING 2020-05-25 07:16:33,925 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-25 07:16:33,926 basehttp 154 "GET /static/js/require.js HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:33,928 basehttp 154 "GET /static/image/logo.png HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:33,932 basehttp 154 "GET /static/image/laud.png HTTP/1.1" 304 0
+WARNING 2020-05-25 07:16:34,032 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-25 07:16:34,066 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:34,103 basehttp 154 "GET /static/js/jquery.min.js HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:34,103 basehttp 154 "GET /static/js/common.min.js HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:34,150 basehttp 154 "GET /static/image/datu-1.jpg HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:34,152 basehttp 154 "GET /static/image/tu3.png HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:34,154 basehttp 154 "GET /static/image/datu-2.jpg HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:34,155 basehttp 154 "GET /static/image/tu2.png HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:34,156 basehttp 154 "GET /static/songImg/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.jpg HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:34,156 basehttp 154 "GET /static/songImg/%E4%BC%B4%E4%BA%91.jpg HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:34,157 basehttp 154 "GET /static/songImg/%E5%A5%BD%E6%83%B3%E7%88%B1%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%95%8A%20(Live).jpg HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:34,733 basehttp 154 "GET /static/font/iconfont.woff HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:36,923 basehttp 154 "GET /rankingView HTTP/1.1" 200 23488
+INFO 2020-05-25 07:16:36,958 basehttp 154 "GET /static/songImg/%E6%9C%80%E5%90%8E%E4%B8%80%E9%A6%96%E6%83%85%E6%AD%8C.jpg HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:36,965 basehttp 154 "GET /static/songImg/%E9%A3%9E%E4%BA%91%E4%B9%8B%E4%B8%8B.jpg HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:36,966 basehttp 154 "GET /static/songImg/%E8%85%BB%E5%91%B3.jpg HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:36,967 basehttp 154 "GET /static/css/ranking.css HTTP/1.1" 200 41868
+WARNING 2020-05-25 07:16:36,969 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-25 07:16:36,974 basehttp 154 "GET /static/songImg/%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3.jpg HTTP/1.1" 304 0
+INFO 2020-05-25 07:16:36,975 basehttp 154 "GET /static/songImg/%E9%82%A3%E4%B8%AA%E5%A5%B3%E5%AD%A9.jpg HTTP/1.1" 200 241412
+INFO 2020-05-25 07:16:37,011 basehttp 154 "GET /static/js/ranking.js HTTP/1.1" 200 1574
+INFO 2020-05-25 07:16:37,073 basehttp 154 "GET /static/songImg/%E8%B6%85%E4%BA%BA.jpg HTTP/1.1" 200 4261654
+INFO 2020-05-25 07:17:00,207 autoreload 217 /Users/yjp/Desktop/music/music/urls.py changed, reloading.
+INFO 2020-05-25 07:17:00,765 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-25 07:17:05,656 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-25 07:17:05,690 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-25 07:17:50,656 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-25 07:17:54,034 basehttp 154 "GET / HTTP/1.1" 200 24777
+WARNING 2020-05-25 07:17:54,065 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-25 07:17:54,194 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-25 07:17:55,358 basehttp 154 "GET / HTTP/1.1" 200 24777
+WARNING 2020-05-25 07:17:55,389 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-25 07:17:56,325 basehttp 154 "GET / HTTP/1.1" 200 24777
+WARNING 2020-05-25 07:17:56,357 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-25 07:18:21,346 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-25 07:18:23,154 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-25 07:18:23,176 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-25 07:18:24,614 basehttp 154 "GET /rankingView HTTP/1.1" 200 23488
+WARNING 2020-05-25 07:18:24,647 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-25 07:18:37,324 autoreload 597 Watching for file changes with StatReloader
+WARNING 2020-05-25 07:18:39,918 log 228 Not Found: /rankingView
+WARNING 2020-05-25 07:18:39,918 basehttp 154 "GET /rankingView HTTP/1.1" 404 2906
+WARNING 2020-05-25 07:18:40,049 log 228 Not Found: /favicon.ico
+WARNING 2020-05-25 07:18:40,050 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2664
+INFO 2020-05-25 07:19:01,997 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-25 07:19:04,905 basehttp 154 "GET /rankingView HTTP/1.1" 200 23488
+WARNING 2020-05-25 07:19:04,939 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-25 07:19:25,788 autoreload 597 Watching for file changes with StatReloader
+WARNING 2020-05-25 07:19:28,294 log 228 Not Found: /rankingView
+WARNING 2020-05-25 07:19:28,294 basehttp 154 "GET /rankingView HTTP/1.1" 404 2669
+INFO 2020-05-25 07:19:33,479 basehttp 154 "GET / HTTP/1.1" 200 24789
+WARNING 2020-05-25 07:19:33,551 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-25 07:19:34,627 basehttp 154 "GET /ranking.html HTTP/1.1" 200 23543
+WARNING 2020-05-25 07:19:34,658 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-25 07:21:14,408 autoreload 217 /Users/yjp/Desktop/music/user/urls.py changed, reloading.
+INFO 2020-05-25 07:21:15,022 autoreload 597 Watching for file changes with StatReloader

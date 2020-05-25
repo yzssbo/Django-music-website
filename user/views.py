@@ -8,6 +8,7 @@ from django.contrib.auth.hashers import check_password
 from django.contrib.auth.decorators import login_required
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 
+
 # 用户注册与登录
 def loginView(request):
     user = MyUserCreationForm()
@@ -34,11 +35,12 @@ def loginView(request):
                 user.save()
                 tips = '注册成功'
             else:
-                if user.errors.get('username',''):
-                    tips = user.errors.get('username','注册失败')
+                if user.errors.get('username', ''):
+                    tips = user.errors.get('username', '注册失败')
                 else:
-                    tips = user.errors.get('mobile', '注册失败')
+                    tips = user.errors.get('password2', '注册失败')
     return render(request, 'login.html', locals())
+
 
 # 用户中心
 # 设置用户登录限制
@@ -56,6 +58,7 @@ def homeView(request, page):
     except EmptyPage:
         contacts = paginator.page(paginator.num_pages)
     return render(request, 'home.html', locals())
+
 
 # 退出登录
 def logoutView(request):

@@ -2,7 +2,7 @@ from django.shortcuts import render
 from .models import *
 
 
-def indexView(request):
+def IndexView(request):
     # 热搜歌曲
     search_song = Dynamic.objects.select_related('song').order_by('-dynamic_search').all()[:8]
     # 音乐分类

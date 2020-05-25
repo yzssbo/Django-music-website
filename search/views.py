@@ -2,6 +2,8 @@ from django.shortcuts import render, redirect
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.db.models import Q
 from index.models import *
+
+
 def searchView(request, page):
     if request.method == 'GET':
         # 搜索歌曲
@@ -10,9 +12,12 @@ def searchView(request, page):
         kword = request.session.get('kword', '')
         if kword:
             # Q是SQL语句里的or语法
-            song_info = Song.objects.values('song_id', 'song_name', 'song_singer', 'song_time').filter(Q(song_name__icontains=kword) | Q(song_singer=kword)).order_by('-song_release').all()
+            song_info = Song.objects.values('song_id', 'song_name', 'song_singer', 'song_time').filter(
+                Q(song_name__icontains=kword) | Q(song_singer=kword)).order_by('-song_release').all()
+            print(song_info)
         else:
-            song_info = Song.objects.values('song_id', 'song_name', 'song_singer', 'song_time').order_by('-song_release').all()[:50]
+            song_info = Song.objects.values('song_id', 'song_name', 'song_singer', 'song_time').order_by(
+                '-song_release').all()[:50]
         # 分页功能
         paginator = Paginator(song_info, 5)
         try:

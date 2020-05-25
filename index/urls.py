@@ -27,5 +27,5 @@ path('', views.index):
 “index”函数。
 '''
 urlpatterns = [
-    path('', views.indexView, name='index'),
+    path('', views.IndexView, name='index'),
 ]

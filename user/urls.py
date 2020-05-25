@@ -15,6 +15,7 @@ Including another URLconf
 """
 from django.urls import path
 from . import views
+
 urlpatterns = [
     # 用户的注册和登录
     path('login.html', views.loginView, name='login'),

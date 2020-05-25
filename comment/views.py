@@ -15,7 +15,7 @@ def commentView(request, song_id):
     search_song = Dynamic.objects.select_related('song').order_by('-dynamic_search').all()[:6]
     # 点评提交处理
     if request.method == 'POST':
-        comment_text = request.POST.get('comment','')
+        comment_text = request.POST.get('comment', '')
         comment_user = request.user.username if request.user.username else '匿名用户'
         if comment_text:
             comment = Comment()
@@ -24,7 +24,7 @@ def commentView(request, song_id):
             comment.comment_date = time.strftime('%Y-%m-%d', time.localtime(time.time()))
             comment.song_id = song_id
             comment.save()
-        return redirect('/comment/%s.html' %(str(song_id)))
+        return redirect('/comment/%s.html' % (str(song_id)))
     else:
         song_info = Song.objects.filter(song_id=song_id).first()
         # 歌曲不存在抛出404异常
