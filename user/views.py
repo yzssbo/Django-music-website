@@ -1,4 +1,6 @@
 from django.shortcuts import render, redirect
+from django.views import View
+
 from index.models import *
 from user.models import *
 from .form import MyUserCreationForm
@@ -7,6 +9,10 @@ from django.contrib.auth import login, logout
 from django.contrib.auth.hashers import check_password
 from django.contrib.auth.decorators import login_required
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
+
+
+# class Login(View):
+#     def post(self, request):
 
 
 # 用户注册与登录
@@ -23,7 +29,7 @@ def loginView(request):
                 user = MyUser.objects.filter(Q(mobile=loginUser) | Q(username=loginUser)).first()
                 if check_password(password, user.password):
                     login(request, user)
-                    return redirect('/user/home/1.html')
+                    return redirect('/user/home/1')
                 else:
                     tips = '密码错误'
             else:

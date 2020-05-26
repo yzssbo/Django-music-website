@@ -87,9 +87,9 @@ WSGI_APPLICATION = 'music.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': '数据库名称',
+        'NAME': 'music',
         'USER': 'root',
-        'PASSWORD': '数据库密码',
+        'PASSWORD': 'yao950724',
         'HOST': '127.0.0.1',
         'PORT': '3306',
     }

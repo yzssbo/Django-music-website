@@ -35,7 +35,7 @@ path('',include('index.urls')):
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('index.urls')),  #
-    path('ranking.html', include('ranking.urls')),
+    path('ranking', include('ranking.urls')),
     path('play/', include('play.urls')),
     path('comment/', include('comment.urls')),
     path('search/', include('search.urls')),

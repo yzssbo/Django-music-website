@@ -1,20 +1,15 @@
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.shortcuts import render, redirect
 from django.http import Http404
+from django.views import View
+
 from index.models import *
 import time
 
-'''
-    试图函数的commentView有1个函数参数，其中song_id是来自于URL的变量。URL的变量和视图函数的参数要一一对应，
-    如果视图函数的参数与URL的变量对应不上，那么程序会抛出参数不相符的报错信息。
-'''
 
-
-def commentView(request, song_id):
-    # 热搜歌曲
-    search_song = Dynamic.objects.select_related('song').order_by('-dynamic_search').all()[:6]
-    # 点评提交处理
-    if request.method == 'POST':
+class CommentView(View):
+    def post(self, request, song_id):
+        # 点评提交处理
         comment_text = request.POST.get('comment', '')
         comment_user = request.user.username if request.user.username else '匿名用户'
         if comment_text:
@@ -24,8 +19,11 @@ def commentView(request, song_id):
             comment.comment_date = time.strftime('%Y-%m-%d', time.localtime(time.time()))
             comment.song_id = song_id
             comment.save()
-        return redirect('/comment/%s.html' % (str(song_id)))
-    else:
+        return redirect('/comment/%s' % song_id)
+
+    def get(self, request, song_id):
+        # 热搜歌曲
+        search_song = Dynamic.objects.select_related('song').order_by('-dynamic_search').all()[:6]
         song_info = Song.objects.filter(song_id=song_id).first()
         # 歌曲不存在抛出404异常
         if not song_info:

@@ -14,7 +14,9 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.urls import path
-from . import views
+
+from comment.views import CommentView
+
 urlpatterns = [
-    path('<int:song_id>.html', views.commentView, name='comment'),
+    path('<int:song_id>', CommentView.as_view(), name='comment'),
 ]

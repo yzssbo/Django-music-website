@@ -62,3 +62,1671 @@ INFO 2020-05-25 07:19:34,627 basehttp 154 "GET /ranking.html HTTP/1.1" 200 23543
 WARNING 2020-05-25 07:19:34,658 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
 INFO 2020-05-25 07:21:14,408 autoreload 217 /Users/yjp/Desktop/music/user/urls.py changed, reloading.
 INFO 2020-05-25 07:21:15,022 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:16:43,967 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:17:30,513 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:17:46,727 basehttp 154 "GET / HTTP/1.1" 200 24789
+INFO 2020-05-26 07:17:46,751 basehttp 154 "GET /static/css/common.css HTTP/1.1" 304 0
+INFO 2020-05-26 07:17:46,751 basehttp 154 "GET /static/js/require.js HTTP/1.1" 304 0
+INFO 2020-05-26 07:17:46,752 basehttp 154 "GET /static/css/index.css HTTP/1.1" 304 0
+INFO 2020-05-26 07:17:46,754 basehttp 154 "GET /static/image/logo.png HTTP/1.1" 304 0
+WARNING 2020-05-26 07:17:46,754 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 07:17:46,918 basehttp 154 "GET /static/image/laud.png HTTP/1.1" 304 0
+WARNING 2020-05-26 07:17:47,003 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 07:17:47,020 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2020-05-26 07:17:47,057 basehttp 154 "GET /static/js/common.min.js HTTP/1.1" 304 0
+INFO 2020-05-26 07:17:47,058 basehttp 154 "GET /static/js/jquery.min.js HTTP/1.1" 304 0
+INFO 2020-05-26 07:17:47,114 basehttp 154 "GET /static/image/tu3.png HTTP/1.1" 304 0
+INFO 2020-05-26 07:17:47,118 basehttp 154 "GET /static/image/datu-1.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 07:17:47,121 basehttp 154 "GET /static/songImg/%E4%BC%B4%E4%BA%91.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 07:17:47,123 basehttp 154 "GET /static/image/datu-2.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 07:17:47,124 basehttp 154 "GET /static/songImg/%E6%9C%80%E5%90%8E%E4%B8%80%E9%A6%96%E6%83%85%E6%AD%8C.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 07:17:47,128 basehttp 154 "GET /static/songImg/%E8%85%BB%E5%91%B3.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 07:17:47,152 basehttp 154 "GET /static/songImg/%E5%A5%BD%E6%83%B3%E7%88%B1%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%95%8A%20(Live).jpg HTTP/1.1" 200 661713
+INFO 2020-05-26 07:17:47,153 basehttp 154 "GET /static/image/tu2.png HTTP/1.1" 200 846222
+INFO 2020-05-26 07:17:47,155 basehttp 154 "GET /static/songImg/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.jpg HTTP/1.1" 200 864727
+INFO 2020-05-26 07:17:47,155 basehttp 154 "GET /static/songImg/%E9%A3%9E%E4%BA%91%E4%B9%8B%E4%B8%8B.jpg HTTP/1.1" 200 590643
+INFO 2020-05-26 07:17:47,199 basehttp 154 "GET /static/songImg/%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3.jpg HTTP/1.1" 200 1695529
+INFO 2020-05-26 07:17:47,762 basehttp 154 "GET /static/font/iconfont.woff HTTP/1.1" 304 0
+INFO 2020-05-26 07:17:52,711 basehttp 154 "POST /search/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 07:17:52,734 basehttp 154 "GET /search/1.html HTTP/1.1" 200 7623
+INFO 2020-05-26 07:17:52,758 basehttp 154 "GET /static/css/search.css HTTP/1.1" 200 42760
+INFO 2020-05-26 07:18:19,686 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:18:21,966 basehttp 154 "POST /search/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 07:18:21,991 basehttp 154 "GET /search/1.html HTTP/1.1" 200 7623
+INFO 2020-05-26 07:18:45,790 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:18:46,314 basehttp 154 "POST /search/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 07:18:46,341 basehttp 154 "GET /search/1.html HTTP/1.1" 200 7623
+INFO 2020-05-26 07:19:19,249 autoreload 217 /Users/yjp/Desktop/music/search/views.py changed, reloading.
+INFO 2020-05-26 07:19:19,851 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:20:09,454 autoreload 217 /Users/yjp/Desktop/music/search/views.py changed, reloading.
+INFO 2020-05-26 07:20:09,977 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:20:19,753 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:20:22,248 basehttp 154 "POST /search/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 07:20:22,275 basehttp 154 "GET /search/1.html HTTP/1.1" 200 7623
+INFO 2020-05-26 07:21:07,675 basehttp 154 "GET / HTTP/1.1" 200 24789
+WARNING 2020-05-26 07:21:07,704 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 07:21:20,199 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:21:24,652 basehttp 154 "POST /search/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 07:21:24,688 basehttp 154 "GET /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 07:22:45,577 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:22:48,124 basehttp 154 "GET / HTTP/1.1" 200 20
+WARNING 2020-05-26 07:22:48,174 log 228 Not Found: /favicon.ico
+WARNING 2020-05-26 07:22:48,175 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2669
+INFO 2020-05-26 07:23:09,915 basehttp 154 "GET / HTTP/1.1" 200 20
+INFO 2020-05-26 07:23:10,402 basehttp 154 "GET / HTTP/1.1" 200 20
+INFO 2020-05-26 07:23:10,579 basehttp 154 "GET / HTTP/1.1" 200 20
+WARNING 2020-05-26 07:23:13,096 log 228 Not Found: /ad
+WARNING 2020-05-26 07:23:13,096 basehttp 154 "GET /ad HTTP/1.1" 404 2642
+INFO 2020-05-26 07:23:16,469 basehttp 154 "GET /admin HTTP/1.1" 301 0
+INFO 2020-05-26 07:23:16,502 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-05-26 07:23:16,555 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1964
+INFO 2020-05-26 07:23:16,590 basehttp 154 "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+INFO 2020-05-26 07:23:16,591 basehttp 154 "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+INFO 2020-05-26 07:23:16,591 basehttp 154 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+INFO 2020-05-26 07:23:16,595 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2020-05-26 07:23:16,642 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+INFO 2020-05-26 07:23:16,642 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+INFO 2020-05-26 07:23:16,643 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+INFO 2020-05-26 07:23:25,102 basehttp 154 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2020-05-26 07:23:25,134 basehttp 154 "GET /admin/ HTTP/1.1" 200 7378
+INFO 2020-05-26 07:23:25,159 basehttp 154 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+INFO 2020-05-26 07:23:25,174 basehttp 154 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2020-05-26 07:23:25,175 basehttp 154 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2020-05-26 07:23:25,175 basehttp 154 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2020-05-26 07:23:29,432 basehttp 154 "GET / HTTP/1.1" 200 20
+INFO 2020-05-26 07:24:54,917 basehttp 154 "GET / HTTP/1.1" 200 24789
+WARNING 2020-05-26 07:24:54,943 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 07:24:57,420 basehttp 154 "POST /search/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 07:24:57,436 basehttp 154 "GET /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 07:25:04,108 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:25:10,110 basehttp 154 "POST /search/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 07:25:10,133 basehttp 154 "GET /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 07:26:30,400 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:28:16,126 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:28:21,711 basehttp 154 "GET / HTTP/1.1" 200 24789
+WARNING 2020-05-26 07:28:21,794 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 07:28:31,638 basehttp 154 "POST /search/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 07:28:36,624 basehttp 154 "GET /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 07:32:10,325 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:32:29,800 basehttp 154 "POST /search/2.html HTTP/1.1" 302 0
+INFO 2020-05-26 07:32:33,984 basehttp 154 "GET /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 07:33:23,493 basehttp 154 "POST /search/5.html HTTP/1.1" 302 0
+INFO 2020-05-26 07:33:26,180 autoreload 217 /Users/yjp/Desktop/music/search/views.py changed, reloading.
+INFO 2020-05-26 07:33:27,445 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:33:36,553 basehttp 154 "GET /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 07:33:47,321 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:34:01,506 basehttp 154 "POST /search/5.html HTTP/1.1" 302 0
+INFO 2020-05-26 07:34:11,031 basehttp 154 "GET /search/5.html HTTP/1.1" 200 7169
+INFO 2020-05-26 07:34:50,545 autoreload 217 /Users/yjp/Desktop/music/search/views.py changed, reloading.
+INFO 2020-05-26 07:34:51,714 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:34:59,156 basehttp 154 "POST /search/5.html HTTP/1.1" 302 0
+INFO 2020-05-26 07:35:24,859 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:37:48,559 basehttp 154 "POST /search/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 07:40:34,196 basehttp 154 "GET /search/1.html HTTP/1.1" 200 3244
+INFO 2020-05-26 07:43:31,438 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:43:34,388 basehttp 154 "GET / HTTP/1.1" 200 24789
+WARNING 2020-05-26 07:43:34,456 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 07:44:58,152 autoreload 597 Watching for file changes with StatReloader
+ERROR 2020-05-26 07:45:07,718 log 228 Internal Server Error: /search/1.html
+Traceback (most recent call last):
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view search.views.searchView didn't return an HttpResponse object. It returned None instead.
+ERROR 2020-05-26 07:45:07,720 basehttp 154 "GET /search/1.html HTTP/1.1" 500 59013
+INFO 2020-05-26 07:45:36,897 basehttp 154 "GET / HTTP/1.1" 200 24789
+WARNING 2020-05-26 07:45:36,917 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 07:45:37,081 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 07:46:06,474 basehttp 154 "POST /search/1.html HTTP/1.1" 200 3244
+INFO 2020-05-26 07:46:40,860 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:46:44,513 basehttp 154 "POST /search/1.html HTTP/1.1" 200 3244
+INFO 2020-05-26 07:46:45,544 basehttp 154 "POST /search/1.html HTTP/1.1" 200 3244
+INFO 2020-05-26 07:46:56,306 basehttp 154 "POST /search/1.html HTTP/1.1" 200 3244
+INFO 2020-05-26 07:47:45,303 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:47:47,588 basehttp 154 "POST /search/1.html HTTP/1.1" 200 3244
+ERROR 2020-05-26 07:47:53,345 log 228 Internal Server Error: /search/1.html
+Traceback (most recent call last):
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/yjp/Desktop/music/search/views.py", line 14, in searchView
+    request.session.pop('kword')
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py", line 70, in pop
+    return self._session.pop(key, *args)
+KeyError: 'kword'
+ERROR 2020-05-26 07:47:53,346 basehttp 154 "POST /search/1.html HTTP/1.1" 500 71247
+INFO 2020-05-26 07:48:14,075 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:48:17,148 basehttp 154 "POST /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 07:48:19,101 basehttp 154 "POST /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 07:48:21,198 basehttp 154 "POST /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 07:48:23,157 basehttp 154 "POST /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 07:49:22,627 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:49:44,483 basehttp 154 "POST /search/1.html HTTP/1.1" 200 7071
+INFO 2020-05-26 07:49:49,993 basehttp 154 "GET /search/1.html?csrfmiddlewaretoken=LMut4mnVjdKWlcFzWXIM7JFqiB0O5h8ZkmVhJqjxzdr5KCbUxBNMuNlIPznU0fHX&kword= HTTP/1.1" 200 7071
+INFO 2020-05-26 07:50:01,923 basehttp 154 "GET /search/1.html?csrfmiddlewaretoken=UWfg172Zeeh1JneCNTE0b4BVxzbboiZrtwG4GbYBueYa8NKXoxJ0y8hd4xyhjgyp&kword=%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3 HTTP/1.1" 200 7071
+INFO 2020-05-26 07:50:33,509 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:50:35,403 basehttp 154 "GET /search/1.html?csrfmiddlewaretoken=eYomzmAM1bKiT50wmRPute0JoKJf1iGUNyPaeqwohbrrivwRXvUuQiG1VI6lWgfS&kword= HTTP/1.1" 200 7071
+INFO 2020-05-26 07:50:45,960 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:50:47,607 basehttp 154 "GET /search/1.html?csrfmiddlewaretoken=Q4eNeoDUdHHonpGYH8MpXSgjWhNqQY7mpEFBTszwtHoxMPcjiMRpkWWBtfawLWGk&kword= HTTP/1.1" 200 7071
+INFO 2020-05-26 07:50:52,222 basehttp 154 "GET /search/1.html?csrfmiddlewaretoken=gyuirpSR0vXZkpktqmtJ9qBBbUpcp0U8P8V66tOtgvE8JPQO10yJwuhTISMikYt6&kword=%E8%85%BB%E5%91%B3 HTTP/1.1" 200 7071
+INFO 2020-05-26 07:52:25,806 autoreload 217 /Users/yjp/Desktop/music/search/views.py changed, reloading.
+INFO 2020-05-26 07:52:26,319 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:52:36,998 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:52:40,337 basehttp 154 "GET /search/1.html?csrfmiddlewaretoken=LMut4mnVjdKWlcFzWXIM7JFqiB0O5h8ZkmVhJqjxzdr5KCbUxBNMuNlIPznU0fHX&kword= HTTP/1.1" 200 7072
+INFO 2020-05-26 07:52:45,834 basehttp 154 "POST /search/1.html HTTP/1.1" 200 3244
+INFO 2020-05-26 07:52:51,877 basehttp 154 "POST /search/1.html HTTP/1.1" 200 3248
+INFO 2020-05-26 07:53:04,070 autoreload 217 /Users/yjp/Desktop/music/search/views.py changed, reloading.
+INFO 2020-05-26 07:53:04,590 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:53:05,760 basehttp 154 "POST /search/1.html HTTP/1.1" 200 2612
+INFO 2020-05-26 07:53:08,232 basehttp 154 "POST /search/1.html HTTP/1.1" 200 2612
+INFO 2020-05-26 07:53:10,748 basehttp 154 "POST /search/1.html HTTP/1.1" 200 3246
+INFO 2020-05-26 07:53:12,026 basehttp 154 "GET /play/7.html HTTP/1.1" 200 9967
+INFO 2020-05-26 07:53:12,054 basehttp 154 "GET /static/css/play.css HTTP/1.1" 304 0
+INFO 2020-05-26 07:53:12,098 basehttp 154 "GET /static/js/play.js HTTP/1.1" 304 0
+INFO 2020-05-26 07:53:12,124 basehttp 154 "GET /static/js/jquery.jplayer.js HTTP/1.1" 304 0
+INFO 2020-05-26 07:53:12,147 basehttp 154 "GET /static/songImg/%E6%97%A0%E4%BA%BA%E4%B9%8B%E5%B2%9B.jpg HTTP/1.1" 200 70521
+INFO 2020-05-26 07:53:12,308 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 304 0
+INFO 2020-05-26 07:53:12,320 basehttp 154 "GET /static/songFile/%E6%97%A0%E4%BA%BA%E4%B9%8B%E5%B2%9B.mp3 HTTP/1.1" 200 4564994
+INFO 2020-05-26 07:53:14,846 basehttp 154 "POST /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 07:53:49,953 autoreload 217 /Users/yjp/Desktop/music/search/views.py changed, reloading.
+INFO 2020-05-26 07:53:50,521 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:54:04,742 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 07:54:07,181 basehttp 154 "POST /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 07:54:10,666 basehttp 154 "POST /search/1.html HTTP/1.1" 200 3248
+INFO 2020-05-26 08:50:31,805 autoreload 217 /Users/yjp/Desktop/music/search/views.py changed, reloading.
+INFO 2020-05-26 08:50:32,381 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 08:50:37,521 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 08:50:42,967 basehttp 154 "GET / HTTP/1.1" 200 24792
+WARNING 2020-05-26 08:50:42,989 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 08:50:43,312 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 08:50:45,024 basehttp 154 "POST /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 08:50:46,083 basehttp 154 "GET /search/2.html HTTP/1.1" 200 7174
+INFO 2020-05-26 08:50:48,031 basehttp 154 "GET /search/3.html HTTP/1.1" 200 7205
+INFO 2020-05-26 08:52:45,292 autoreload 217 /Users/yjp/Desktop/music/search/views.py changed, reloading.
+INFO 2020-05-26 08:52:45,881 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 08:54:56,526 autoreload 217 /Users/yjp/Desktop/music/search/views.py changed, reloading.
+INFO 2020-05-26 08:54:57,048 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 08:55:01,082 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 08:55:04,070 basehttp 154 "POST /search/1.html HTTP/1.1" 200 7072
+INFO 2020-05-26 08:55:06,895 basehttp 154 "GET /search/2.html HTTP/1.1" 200 7174
+INFO 2020-05-26 08:55:07,834 basehttp 154 "GET /search/3.html HTTP/1.1" 200 7205
+INFO 2020-05-26 08:56:26,569 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 08:56:29,212 basehttp 154 "POST /search/1.html HTTP/1.1" 200 7049
+INFO 2020-05-26 08:57:03,257 autoreload 217 /Users/yjp/Desktop/music/search/views.py changed, reloading.
+INFO 2020-05-26 08:57:03,855 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 08:59:24,145 autoreload 217 /Users/yjp/Desktop/music/search/views.py changed, reloading.
+INFO 2020-05-26 08:59:24,681 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:00:18,119 basehttp 154 "GET / HTTP/1.1" 200 24792
+WARNING 2020-05-26 09:00:18,149 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 09:00:22,694 basehttp 154 "GET /play/71.html HTTP/1.1" 200 10492
+INFO 2020-05-26 09:00:22,964 basehttp 154 "GET /static/songFile/%E8%85%BB%E5%91%B3.mp3 HTTP/1.1" 200 3969402
+INFO 2020-05-26 09:00:42,749 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:00:44,355 basehttp 154 "GET /play/71.html HTTP/1.1" 200 10132
+INFO 2020-05-26 09:00:44,477 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 09:00:59,591 basehttp 154 "GET /static/songFile/%E8%85%BB%E5%91%B3.mp3 HTTP/1.1" 200 1359872
+INFO 2020-05-26 09:01:30,968 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:01:37,888 basehttp 154 "GET /play/71.html HTTP/1.1" 200 10316
+INFO 2020-05-26 09:01:38,026 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 09:01:51,102 basehttp 154 "POST /search/1.html HTTP/1.1" 200 7445
+INFO 2020-05-26 09:01:56,075 basehttp 154 "GET /static/songFile/%E8%85%BB%E5%91%B3.mp3 HTTP/1.1" 200 1441792
+INFO 2020-05-26 09:03:47,056 basehttp 154 "GET /play/2.html HTTP/1.1" 200 10873
+INFO 2020-05-26 09:03:47,329 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 3901485
+INFO 2020-05-26 09:04:27,697 basehttp 154 "GET /static/songFile/%E8%85%BB%E5%91%B3.mp3 HTTP/1.1" 200 1392640
+INFO 2020-05-26 09:10:43,611 autoreload 217 /Users/yjp/Desktop/music/play/views.py changed, reloading.
+INFO 2020-05-26 09:10:44,141 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:12:55,499 basehttp 154 "GET /play/71.html HTTP/1.1" 200 10862
+INFO 2020-05-26 09:12:55,627 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 09:12:57,026 basehttp 154 "GET /static/songFile/%E8%85%BB%E5%91%B3.mp3 HTTP/1.1" 200 3969402
+INFO 2020-05-26 09:13:28,629 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:13:32,900 basehttp 154 "GET / HTTP/1.1" 200 24792
+WARNING 2020-05-26 09:13:32,973 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 09:13:48,082 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:15:43,809 basehttp 154 "GET /play/3.html HTTP/1.1" 200 11521
+INFO 2020-05-26 09:15:44,228 basehttp 154 "GET /static/songFile/%E5%A5%BD%E6%83%B3%E7%88%B1%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%95%8A%20(Live).mp3 HTTP/1.1" 200 4204077
+INFO 2020-05-26 09:15:46,125 autoreload 217 /Users/yjp/Desktop/music/play/views.py changed, reloading.
+INFO 2020-05-26 09:15:47,466 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:15:48,184 basehttp 154 "GET / HTTP/1.1" 200 24792
+WARNING 2020-05-26 09:15:48,245 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 09:17:10,714 autoreload 217 /Users/yjp/Desktop/music/play/views.py changed, reloading.
+INFO 2020-05-26 09:17:11,978 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:17:13,934 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:17:16,030 basehttp 154 "GET /play/1.html HTTP/1.1" 200 11965
+INFO 2020-05-26 09:17:16,305 basehttp 154 "GET /play/1.html HTTP/1.1" 200 11965
+INFO 2020-05-26 09:17:16,310 basehttp 154 "GET /static/songFile/%E4%BC%B4%E4%BA%91.mp3 HTTP/1.1" 200 1318912
+INFO 2020-05-26 09:17:16,376 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 09:17:17,626 basehttp 154 "GET /static/songFile/%E4%BC%B4%E4%BA%91.mp3 HTTP/1.1" 200 1269760
+WARNING 2020-05-26 09:17:17,660 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 09:17:18,904 basehttp 154 "GET / HTTP/1.1" 200 24792
+WARNING 2020-05-26 09:17:18,937 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 09:17:20,579 basehttp 154 "GET /play/3.html HTTP/1.1" 200 12064
+INFO 2020-05-26 09:17:20,842 basehttp 154 "GET /static/songFile/%E5%A5%BD%E6%83%B3%E7%88%B1%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%95%8A%20(Live).mp3 HTTP/1.1" 200 4204077
+INFO 2020-05-26 09:17:31,059 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:19:02,420 autoreload 217 /Users/yjp/Desktop/music/play/views.py changed, reloading.
+INFO 2020-05-26 09:19:03,705 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:19:05,513 autoreload 217 /Users/yjp/Desktop/music/play/views.py changed, reloading.
+INFO 2020-05-26 09:19:06,676 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:19:15,276 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:28:44,888 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:28:55,714 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:29:07,730 basehttp 154 "GET /search/3.html HTTP/1.1" 200 7578
+INFO 2020-05-26 09:29:07,784 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 09:29:41,641 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:29:43,409 basehttp 154 "GET / HTTP/1.1" 200 24792
+WARNING 2020-05-26 09:29:43,446 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 09:29:45,482 basehttp 154 "GET /play/1.html HTTP/1.1" 200 11965
+INFO 2020-05-26 09:29:45,770 basehttp 154 "GET /static/songFile/%E4%BC%B4%E4%BA%91.mp3 HTTP/1.1" 200 4407005
+INFO 2020-05-26 09:34:21,235 autoreload 217 /Users/yjp/Desktop/music/play/views.py changed, reloading.
+INFO 2020-05-26 09:34:21,941 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:34:52,022 autoreload 217 /Users/yjp/Desktop/music/play/views.py changed, reloading.
+INFO 2020-05-26 09:34:52,519 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:34:56,627 basehttp 154 "GET /play/7.html HTTP/1.1" 200 11997
+INFO 2020-05-26 09:35:11,889 basehttp 154 "GET /static/songFile/%E6%97%A0%E4%BA%BA%E4%B9%8B%E5%B2%9B.mp3 HTTP/1.1" 200 1384448
+INFO 2020-05-26 09:40:20,461 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:40:33,901 basehttp 154 "GET /play/7.html HTTP/1.1" 200 11997
+INFO 2020-05-26 09:40:33,996 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 09:40:37,551 basehttp 154 "GET /static/songFile/%E6%97%A0%E4%BA%BA%E4%B9%8B%E5%B2%9B.mp3 HTTP/1.1" 200 4564994
+INFO 2020-05-26 09:45:35,426 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:45:46,664 basehttp 154 "GET / HTTP/1.1" 200 24790
+WARNING 2020-05-26 09:45:46,682 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 09:45:46,955 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 09:45:48,226 basehttp 154 "GET /play/2.html HTTP/1.1" 200 11986
+INFO 2020-05-26 09:45:48,514 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 3901485
+INFO 2020-05-26 09:45:54,196 basehttp 154 "GET /play/download/2.html HTTP/1.1" 200 3901485
+INFO 2020-05-26 09:46:32,546 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:51:33,992 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:51:56,753 basehttp 154 "GET / HTTP/1.1" 200 24790
+INFO 2020-05-26 09:51:56,783 basehttp 154 "GET /static/css/index.css HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,784 basehttp 154 "GET /static/css/common.css HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,791 basehttp 154 "GET /static/js/require.js HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,793 basehttp 154 "GET /static/image/logo.png HTTP/1.1" 304 0
+WARNING 2020-05-26 09:51:56,798 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 09:51:56,799 basehttp 154 "GET /static/image/laud.png HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,818 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,846 basehttp 154 "GET /static/js/jquery.min.js HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,847 basehttp 154 "GET /static/js/common.min.js HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,872 basehttp 154 "GET /static/image/tu3.png HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,875 basehttp 154 "GET /static/image/datu-1.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,882 basehttp 154 "GET /static/image/tu2.png HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,883 basehttp 154 "GET /static/songImg/%E4%BC%B4%E4%BA%91.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,883 basehttp 154 "GET /static/image/datu-2.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,884 basehttp 154 "GET /static/songImg/%E5%A5%BD%E6%83%B3%E7%88%B1%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%95%8A%20(Live).jpg HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,885 basehttp 154 "GET /static/songImg/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 09:51:56,905 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 09:51:57,448 basehttp 154 "GET /static/font/iconfont.woff HTTP/1.1" 304 0
+INFO 2020-05-26 09:52:11,272 basehttp 154 "GET /play/2.html HTTP/1.1" 200 11986
+INFO 2020-05-26 09:52:13,961 basehttp 154 "GET /play/30.html HTTP/1.1" 200 12537
+INFO 2020-05-26 09:52:14,025 basehttp 154 "GET /static/songImg/%E9%A3%9E%E4%BA%91%E4%B9%8B%E4%B8%8B.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 09:52:18,381 basehttp 154 "GET /play/1.html HTTP/1.1" 200 12515
+INFO 2020-05-26 09:52:18,385 basehttp 154 "GET /static/songFile/%E9%A3%9E%E4%BA%91%E4%B9%8B%E4%B8%8B.mp3 HTTP/1.1" 200 7528448
+INFO 2020-05-26 09:52:21,091 basehttp 154 "GET /play/2.html HTTP/1.1" 200 12536
+INFO 2020-05-26 09:53:28,087 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:53:32,539 basehttp 154 "GET /play/2.html HTTP/1.1" 200 12536
+INFO 2020-05-26 09:53:34,814 basehttp 154 "GET /play/download/2.html HTTP/1.1" 200 3901485
+INFO 2020-05-26 09:54:26,421 autoreload 217 /Users/yjp/Desktop/music/play/views.py changed, reloading.
+INFO 2020-05-26 09:54:26,964 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:54:44,871 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:54:47,930 basehttp 154 "GET /play/download/2.html HTTP/1.1" 200 3901485
+INFO 2020-05-26 09:56:06,760 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:56:08,703 basehttp 154 "GET / HTTP/1.1" 200 24790
+WARNING 2020-05-26 09:56:08,742 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 09:56:08,936 basehttp 154 "GET /static/songImg/%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 09:56:08,937 basehttp 154 "GET /static/songImg/%E6%9C%80%E5%90%8E%E4%B8%80%E9%A6%96%E6%83%85%E6%AD%8C.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 09:56:08,937 basehttp 154 "GET /static/songImg/%E8%85%BB%E5%91%B3.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 09:56:10,098 basehttp 154 "GET /play/103.html HTTP/1.1" 200 13071
+WARNING 2020-05-26 09:56:10,191 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 09:56:10,351 basehttp 154 "GET /static/songFile/She%20Share%20Story.mp3 HTTP/1.1" 200 1715487
+INFO 2020-05-26 09:56:12,019 basehttp 154 "GET /play/download/103.html HTTP/1.1" 200 1715487
+INFO 2020-05-26 09:57:27,959 basehttp 154 "GET /play/7.html HTTP/1.1" 200 13102
+INFO 2020-05-26 09:57:28,192 basehttp 154 "GET /static/songFile/%E6%97%A0%E4%BA%BA%E4%B9%8B%E5%B2%9B.mp3 HTTP/1.1" 200 4564994
+INFO 2020-05-26 09:57:38,042 basehttp 154 "GET /ranking.html HTTP/1.1" 200 23548
+INFO 2020-05-26 09:57:38,073 basehttp 154 "GET /static/css/ranking.css HTTP/1.1" 304 0
+WARNING 2020-05-26 09:57:38,074 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 09:57:38,080 basehttp 154 "GET /static/songImg/%E9%82%A3%E4%B8%AA%E5%A5%B3%E5%AD%A9.jpg HTTP/1.1" 200 241412
+INFO 2020-05-26 09:57:38,115 basehttp 154 "GET /static/js/ranking.js HTTP/1.1" 304 0
+INFO 2020-05-26 09:57:38,298 basehttp 154 "GET /static/songImg/%E8%B6%85%E4%BA%BA.jpg HTTP/1.1" 200 4261654
+INFO 2020-05-26 09:57:41,307 basehttp 154 "GET /ranking.html HTTP/1.1" 200 23548
+WARNING 2020-05-26 09:57:41,335 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 09:57:45,906 basehttp 154 "GET /ranking.html HTTP/1.1" 200 23548
+WARNING 2020-05-26 09:57:45,934 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 09:58:17,654 basehttp 154 "GET /ranking.html HTTP/1.1" 200 23548
+WARNING 2020-05-26 09:58:17,678 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 09:58:26,672 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:59:00,440 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 09:59:00,494 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 09:59:01,702 basehttp 154 "GET /ranking.html HTTP/1.1" 200 23548
+WARNING 2020-05-26 09:59:01,750 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 09:59:16,544 autoreload 217 /Users/yjp/Desktop/music/ranking/views.py changed, reloading.
+INFO 2020-05-26 09:59:17,765 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:59:30,317 autoreload 217 /Users/yjp/Desktop/music/ranking/urls.py changed, reloading.
+INFO 2020-05-26 09:59:31,572 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:59:33,360 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 09:59:35,330 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 09:59:35,369 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 09:59:35,379 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 09:59:35,425 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 09:59:36,688 basehttp 154 "GET /ranking.html HTTP/1.1" 200 23548
+WARNING 2020-05-26 09:59:36,715 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 09:59:48,704 basehttp 154 "GET /user/home/1.html HTTP/1.1" 200 5802
+INFO 2020-05-26 09:59:48,731 basehttp 154 "GET /static/css/user.css HTTP/1.1" 304 0
+INFO 2020-05-26 09:59:48,732 basehttp 154 "GET /static/image/user.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 09:59:48,739 basehttp 154 "GET /static/image/user_bg.jpg HTTP/1.1" 200 118973
+INFO 2020-05-26 09:59:49,796 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 09:59:49,824 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 09:59:51,032 basehttp 154 "GET /ranking.html HTTP/1.1" 200 23548
+WARNING 2020-05-26 09:59:51,060 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 10:00:04,914 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 10:00:04,943 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:00:10,623 basehttp 154 "GET /ranking.html HTTP/1.1" 200 23548
+WARNING 2020-05-26 10:00:10,651 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 10:02:13,506 basehttp 154 "GET /play/71.html HTTP/1.1" 200 13080
+INFO 2020-05-26 10:02:13,747 basehttp 154 "GET /static/songFile/%E8%85%BB%E5%91%B3.mp3 HTTP/1.1" 200 3969402
+INFO 2020-05-26 10:02:15,957 basehttp 154 "GET /ranking.html HTTP/1.1" 200 23548
+WARNING 2020-05-26 10:02:15,983 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 10:02:24,297 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:05:02,639 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:05:46,854 basehttp 154 "GET /ranking.html HTTP/1.1" 200 25130
+WARNING 2020-05-26 10:05:46,910 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 10:06:18,607 basehttp 154 "GET /ranking.html?type=%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90%E4%BA%BA%20X%20%E9%97%BB%E8%89%BA%E8%B5%8B%E5%85%B4 HTTP/1.1" 200 16701
+INFO 2020-05-26 10:06:21,858 basehttp 154 "GET /play/2.html HTTP/1.1" 200 13091
+INFO 2020-05-26 10:07:50,888 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:07:52,712 basehttp 154 "GET /ranking.html?type=%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90%E4%BA%BA%20X%20%E9%97%BB%E8%89%BA%E8%B5%8B%E5%85%B4 HTTP/1.1" 200 16701
+INFO 2020-05-26 10:07:54,822 basehttp 154 "GET /ranking.html?type=%E5%94%90%E7%BE%BD%E6%96%87%E5%8C%96 HTTP/1.1" 200 16717
+INFO 2020-05-26 10:07:55,836 basehttp 154 "GET /ranking.html?type=%E5%BF%AB%E4%B9%90%E9%98%B3%E5%85%89 HTTP/1.1" 200 16775
+INFO 2020-05-26 10:07:57,066 basehttp 154 "GET /ranking.html?type=%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90%E4%BA%BA HTTP/1.1" 200 16705
+INFO 2020-05-26 10:07:59,006 basehttp 154 "GET /ranking.html?type=%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%20x%20NEGIA%E7%BA%B3%E5%90%89%E9%9F%B3 HTTP/1.1" 200 15787
+INFO 2020-05-26 10:08:00,424 basehttp 154 "GET /ranking.html?type=%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%20x%20NEGIA%E7%BA%B3%E5%90%89%E9%9F%B3 HTTP/1.1" 200 15787
+INFO 2020-05-26 10:08:01,893 basehttp 154 "GET /ranking.html?type=%E5%8D%83%E5%92%8C%E4%B8%96%E7%BA%AA HTTP/1.1" 200 16727
+INFO 2020-05-26 10:08:08,509 basehttp 154 "GET /ranking.html?type=%E5%9D%9A%E8%AF%9A%E6%96%87%E5%8C%96 HTTP/1.1" 200 15787
+INFO 2020-05-26 10:08:09,581 basehttp 154 "GET /ranking.html?type=%E5%8D%8E%E7%BA%B3%E9%9F%B3%E4%B9%90 HTTP/1.1" 200 15787
+INFO 2020-05-26 10:08:10,580 basehttp 154 "GET /ranking.html?type=%E6%9C%AA%E7%9F%A5 HTTP/1.1" 200 17653
+INFO 2020-05-26 10:08:10,616 basehttp 154 "GET /static/songImg/%E5%A4%AA%E9%98%B3.jpg HTTP/1.1" 200 891268
+INFO 2020-05-26 10:08:14,041 basehttp 154 "GET /ranking.html?type=%E7%A7%8D%E5%AD%90%E9%9F%B3%E4%B9%90 HTTP/1.1" 200 16717
+INFO 2020-05-26 10:08:15,559 basehttp 154 "GET /ranking.html?type=%E7%8B%AC%E7%AB%8B%E5%8F%91%E8%A1%8C HTTP/1.1" 200 15787
+INFO 2020-05-26 10:08:16,346 basehttp 154 "GET /ranking.html?type=%E7%88%B1%E5%A5%87%E8%89%BA HTTP/1.1" 200 15787
+INFO 2020-05-26 10:08:18,502 basehttp 154 "GET /ranking.html?type=%E7%8B%AC%E7%AB%8B%E5%8F%91%E8%A1%8C HTTP/1.1" 200 15787
+INFO 2020-05-26 10:08:22,848 basehttp 154 "GET /ranking.html?type=%E7%88%B1%E5%A5%87%E8%89%BA HTTP/1.1" 200 15787
+INFO 2020-05-26 10:08:23,739 basehttp 154 "GET /ranking.html?type=%E9%B2%B8%E9%B1%BC%E5%90%91%E6%B5%B7 HTTP/1.1" 200 15787
+INFO 2020-05-26 10:08:27,399 basehttp 154 "GET /ranking.html?type=1 HTTP/1.1" 200 16710
+WARNING 2020-05-26 10:08:27,428 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 10:08:35,477 basehttp 154 "GET /ranking.html?type=1 HTTP/1.1" 200 16710
+WARNING 2020-05-26 10:08:35,502 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 10:09:28,938 autoreload 217 /Users/yjp/Desktop/music/ranking/urls.py changed, reloading.
+INFO 2020-05-26 10:09:29,524 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:09:34,955 autoreload 597 Watching for file changes with StatReloader
+WARNING 2020-05-26 10:09:36,799 log 228 Not Found: /ranking.html
+WARNING 2020-05-26 10:09:36,799 basehttp 154 "GET /ranking.html HTTP/1.1" 404 2744
+ERROR 2020-05-26 10:10:26,057 log 228 Internal Server Error: /play/3.html
+Traceback (most recent call last):
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/yjp/Desktop/music/play/views.py", line 44, in playView
+    response = render(request, 'play.html', locals())
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/resolvers.py", line 673, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'ranking' not found. 'ranking' is not a valid view function or pattern name.
+ERROR 2020-05-26 10:10:26,061 basehttp 154 "GET /play/3.html HTTP/1.1" 500 184390
+INFO 2020-05-26 10:10:33,139 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:10:35,061 basehttp 154 "GET /ranking.html HTTP/1.1" 200 25130
+WARNING 2020-05-26 10:10:35,089 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 10:17:03,896 basehttp 154 "GET /user/home/1.html HTTP/1.1" 200 5802
+INFO 2020-05-26 10:17:39,825 autoreload 217 /Users/yjp/Desktop/music/user/urls.py changed, reloading.
+INFO 2020-05-26 10:17:40,296 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:20:12,051 autoreload 597 Watching for file changes with StatReloader
+WARNING 2020-05-26 10:20:13,969 log 228 Not Found: /user/logout.html
+WARNING 2020-05-26 10:20:13,969 basehttp 154 "GET /user/logout.html HTTP/1.1" 404 3119
+INFO 2020-05-26 10:22:14,153 autoreload 217 /Users/yjp/Desktop/music/user/urls.py changed, reloading.
+INFO 2020-05-26 10:22:14,646 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:22:24,944 basehttp 154 "GET /user/logout.html HTTP/1.1" 302 0
+INFO 2020-05-26 10:22:24,981 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 10:22:25,014 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 10:22:25,037 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:25:21,383 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:25:23,315 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 10:25:23,365 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:25:24,667 basehttp 154 "GET /user/home/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 10:25:24,698 basehttp 154 "GET /user/login.html?next=/user/home/1.html HTTP/1.1" 200 4664
+INFO 2020-05-26 10:25:24,727 basehttp 154 "GET /static/css/register.css HTTP/1.1" 304 0
+INFO 2020-05-26 10:25:24,748 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-05-26 10:25:27,746 basehttp 154 "POST /user/login.html?next=/user/home/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 10:25:27,761 basehttp 154 "GET /user/home/1.html HTTP/1.1" 200 3791
+INFO 2020-05-26 10:25:28,924 basehttp 154 "GET /user/logout.html HTTP/1.1" 302 0
+INFO 2020-05-26 10:25:28,953 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 10:25:28,981 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:27:39,314 basehttp 154 "GET /user/home/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 10:27:39,327 basehttp 154 "GET /user/login.html?next=/user/home/1.html HTTP/1.1" 200 4664
+INFO 2020-05-26 10:27:42,498 basehttp 154 "POST /user/login.html?next=/user/home/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 10:27:42,516 basehttp 154 "GET /user/home/1.html HTTP/1.1" 200 3791
+INFO 2020-05-26 10:28:01,331 autoreload 217 /Users/yjp/Desktop/music/user/urls.py changed, reloading.
+INFO 2020-05-26 10:28:01,895 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:28:04,196 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 10:28:04,244 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+ERROR 2020-05-26 10:28:05,451 log 228 Internal Server Error: /user/home/1.html
+Traceback (most recent call last):
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/Users/yjp/Desktop/music/user/views.py", line 60, in homeView
+    return render(request, 'home.html', locals())
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/resolvers.py", line 673, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout1' not found. 'logout1' is not a valid view function or pattern name.
+ERROR 2020-05-26 10:28:05,458 basehttp 154 "GET /user/home/1.html HTTP/1.1" 500 163322
+INFO 2020-05-26 10:29:46,701 basehttp 154 "GET /user/home/1.html HTTP/1.1" 200 3791
+INFO 2020-05-26 10:29:59,040 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:30:49,638 autoreload 597 Watching for file changes with StatReloader
+WARNING 2020-05-26 10:30:53,125 log 228 Not Found: /user/logout.html
+WARNING 2020-05-26 10:30:53,125 basehttp 154 "GET /user/logout.html HTTP/1.1" 404 3121
+INFO 2020-05-26 10:35:55,272 basehttp 154 "GET /user/home/1.html HTTP/1.1" 200 3788
+INFO 2020-05-26 10:35:56,413 basehttp 154 "GET /user/logout/$ HTTP/1.1" 302 0
+INFO 2020-05-26 10:35:56,442 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 10:35:56,471 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 10:35:56,479 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:36:34,245 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:36:46,128 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 10:36:46,149 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 10:36:46,664 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:36:46,759 basehttp 154 "GET /static/songImg/%E6%97%A0%E4%BA%BA%E4%B9%8B%E5%B2%9B.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 10:36:51,847 basehttp 154 "GET /user/home/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 10:36:51,877 basehttp 154 "GET /user/login.html?next=/user/home/1.html HTTP/1.1" 200 4664
+INFO 2020-05-26 10:36:55,604 basehttp 154 "POST /user/login.html?next=/user/home/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 10:36:55,621 basehttp 154 "GET /user/home/1.html HTTP/1.1" 200 3786
+INFO 2020-05-26 10:36:56,566 basehttp 154 "GET /user/logout HTTP/1.1" 302 0
+INFO 2020-05-26 10:36:56,593 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 10:36:56,622 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 10:36:56,631 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:37:36,984 autoreload 217 /Users/yjp/Desktop/music/user/urls.py changed, reloading.
+INFO 2020-05-26 10:37:37,537 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:37:41,467 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:37:45,440 basehttp 154 "GET /user/home/1.html HTTP/1.1" 302 0
+WARNING 2020-05-26 10:37:45,449 log 228 Not Found: /user/login.html
+WARNING 2020-05-26 10:37:45,450 basehttp 154 "GET /user/login.html?next=/user/home/1.html HTTP/1.1" 404 3134
+WARNING 2020-05-26 10:37:45,552 log 228 Not Found: /favicon.ico
+WARNING 2020-05-26 10:37:45,552 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2669
+INFO 2020-05-26 10:37:55,635 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 10:37:55,668 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:37:56,684 basehttp 154 "GET /user/home/1.html HTTP/1.1" 302 0
+WARNING 2020-05-26 10:37:56,691 log 228 Not Found: /user/login.html
+WARNING 2020-05-26 10:37:56,691 basehttp 154 "GET /user/login.html?next=/user/home/1.html HTTP/1.1" 404 3134
+INFO 2020-05-26 10:38:43,399 basehttp 154 "GET /user/home/1.html HTTP/1.1" 302 0
+WARNING 2020-05-26 10:38:43,406 log 228 Not Found: /user/login.html
+WARNING 2020-05-26 10:38:43,406 basehttp 154 "GET /user/login.html?next=/user/home/1.html HTTP/1.1" 404 3134
+INFO 2020-05-26 10:40:04,138 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:40:06,538 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 10:40:06,578 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:40:07,529 basehttp 154 "GET /user/home/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 10:40:07,560 basehttp 154 "GET /user/login.html?next=/user/home/1.html HTTP/1.1" 200 4664
+INFO 2020-05-26 10:40:10,871 basehttp 154 "POST /user/login.html?next=/user/home/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 10:40:10,889 basehttp 154 "GET /user/home/1.html HTTP/1.1" 200 3786
+INFO 2020-05-26 10:40:12,131 basehttp 154 "GET /user/logout HTTP/1.1" 302 0
+INFO 2020-05-26 10:40:12,160 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 10:40:12,189 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:40:34,645 basehttp 154 "GET /user/home/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 10:40:34,662 basehttp 154 "GET /user/login.html?next=/user/home/1.html HTTP/1.1" 200 4664
+INFO 2020-05-26 10:40:39,196 basehttp 154 "POST /user/login.html?next=/user/home/1.html HTTP/1.1" 200 4338
+INFO 2020-05-26 10:40:46,652 basehttp 154 "POST /user/login.html?next=/user/home/1.html HTTP/1.1" 200 4338
+INFO 2020-05-26 10:40:55,298 basehttp 154 "POST /user/login.html?next=/user/home/1.html HTTP/1.1" 200 4338
+INFO 2020-05-26 10:41:09,720 basehttp 154 "POST /user/login.html?next=/user/home/1.html HTTP/1.1" 302 0
+WARNING 2020-05-26 10:41:16,076 log 228 Forbidden (CSRF token missing or incorrect.): /user/login.html
+WARNING 2020-05-26 10:41:16,077 basehttp 154 "POST /user/login.html?next=/user/home/1.html HTTP/1.1" 403 2508
+WARNING 2020-05-26 10:41:22,265 log 228 Forbidden (CSRF token missing or incorrect.): /user/login.html
+WARNING 2020-05-26 10:41:22,266 basehttp 154 "POST /user/login.html?next=/user/home/1.html HTTP/1.1" 403 2508
+INFO 2020-05-26 10:41:31,219 basehttp 154 "GET /user/home/1.html HTTP/1.1" 200 3787
+INFO 2020-05-26 10:41:53,889 basehttp 154 "GET / HTTP/1.1" 200 24788
+WARNING 2020-05-26 10:41:53,918 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:41:55,104 basehttp 154 "GET /play/2.html HTTP/1.1" 200 9778
+INFO 2020-05-26 10:41:55,131 basehttp 154 "GET /static/css/play.css HTTP/1.1" 304 0
+INFO 2020-05-26 10:41:55,170 basehttp 154 "GET /static/js/play.js HTTP/1.1" 304 0
+INFO 2020-05-26 10:41:55,189 basehttp 154 "GET /static/js/jquery.jplayer.js HTTP/1.1" 304 0
+INFO 2020-05-26 10:41:57,441 basehttp 154 "GET /user/home/1.html HTTP/1.1" 200 4292
+INFO 2020-05-26 10:42:17,567 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:42:24,370 basehttp 154 "GET / HTTP/1.1" 200 24783
+WARNING 2020-05-26 10:42:24,389 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 10:42:24,613 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:42:25,876 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 4287
+INFO 2020-05-26 10:44:15,113 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:44:17,041 basehttp 154 "GET / HTTP/1.1" 200 24378
+WARNING 2020-05-26 10:44:17,077 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:44:18,887 basehttp 154 "GET /ranking HTTP/1.1" 200 24725
+WARNING 2020-05-26 10:44:18,914 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 10:44:24,131 basehttp 154 "GET /ranking HTTP/1.1" 200 24725
+WARNING 2020-05-26 10:44:24,160 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 10:44:24,902 basehttp 154 "GET /ranking?type=%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90%E4%BA%BA%20X%20%E9%97%BB%E8%89%BA%E8%B5%8B%E5%85%B4 HTTP/1.1" 200 16386
+INFO 2020-05-26 10:44:26,405 basehttp 154 "GET /ranking?type=%E5%BF%AB%E4%B9%90%E9%98%B3%E5%85%89 HTTP/1.1" 200 16460
+INFO 2020-05-26 10:44:27,208 basehttp 154 "GET /ranking?type=%E5%94%90%E7%BE%BD%E6%96%87%E5%8C%96 HTTP/1.1" 200 16402
+INFO 2020-05-26 10:44:28,541 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 4252
+INFO 2020-05-26 10:44:29,443 basehttp 154 "GET /ranking HTTP/1.1" 200 24725
+WARNING 2020-05-26 10:44:29,476 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 10:44:30,077 basehttp 154 "GET / HTTP/1.1" 200 24378
+WARNING 2020-05-26 10:44:30,109 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:44:32,180 basehttp 154 "POST /search/1 HTTP/1.1" 200 3577
+INFO 2020-05-26 10:44:32,206 basehttp 154 "GET /static/css/search.css HTTP/1.1" 304 0
+INFO 2020-05-26 10:44:34,002 basehttp 154 "POST /search/1 HTTP/1.1" 200 7335
+INFO 2020-05-26 10:44:35,330 basehttp 154 "GET /search/2 HTTP/1.1" 200 7432
+INFO 2020-05-26 10:44:37,044 basehttp 154 "GET /search/3 HTTP/1.1" 200 7463
+INFO 2020-05-26 10:44:38,543 basehttp 154 "GET /search/4 HTTP/1.1" 200 7437
+INFO 2020-05-26 10:44:39,157 basehttp 154 "GET /search/5 HTTP/1.1" 200 7427
+INFO 2020-05-26 10:44:40,136 basehttp 154 "GET /search/6 HTTP/1.1" 200 7467
+INFO 2020-05-26 10:44:40,597 basehttp 154 "GET /search/7 HTTP/1.1" 200 7425
+INFO 2020-05-26 10:44:41,434 basehttp 154 "GET /search/8 HTTP/1.1" 200 7425
+INFO 2020-05-26 10:44:41,869 basehttp 154 "GET /search/9 HTTP/1.1" 200 7418
+INFO 2020-05-26 10:44:46,440 basehttp 154 "GET /play/46 HTTP/1.1" 200 11575
+INFO 2020-05-26 10:44:46,585 basehttp 154 "GET /static/songImg/%E7%99%BD%E7%BE%8A.jpg HTTP/1.1" 200 1591788
+INFO 2020-05-26 10:44:46,756 basehttp 154 "GET /static/songFile/%E7%99%BD%E7%BE%8A.mp3 HTTP/1.1" 200 2695880
+INFO 2020-05-26 10:44:53,255 basehttp 154 "GET /play/download/46 HTTP/1.1" 200 2695880
+INFO 2020-05-26 10:45:39,604 basehttp 154 "GET /play/download/46 HTTP/1.1" 200 2695880
+INFO 2020-05-26 10:45:48,706 basehttp 154 "GET / HTTP/1.1" 200 24282
+WARNING 2020-05-26 10:45:48,742 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:45:50,156 basehttp 154 "GET /play/71 HTTP/1.1" 200 10801
+INFO 2020-05-26 10:45:51,197 basehttp 154 "GET /play/download/71 HTTP/1.1" 200 3969402
+INFO 2020-05-26 10:46:27,812 basehttp 154 "GET / HTTP/1.1" 200 24282
+WARNING 2020-05-26 10:46:27,842 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:46:30,159 basehttp 154 "GET /play/104 HTTP/1.1" 200 13180
+INFO 2020-05-26 10:46:30,427 basehttp 154 "GET /static/songFile/%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3.mp3 HTTP/1.1" 200 3841088
+INFO 2020-05-26 10:47:00,917 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:47:03,042 basehttp 154 "GET /play/104 HTTP/1.1" 200 13180
+INFO 2020-05-26 10:47:03,246 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 10:47:07,882 basehttp 154 "GET /static/songFile/%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3.mp3 HTTP/1.1" 200 3841088
+INFO 2020-05-26 10:47:48,278 basehttp 154 "GET /play/download/104 HTTP/1.1" 200 3841088
+INFO 2020-05-26 10:49:07,789 autoreload 217 /Users/yjp/Desktop/music/play/views.py changed, reloading.
+INFO 2020-05-26 10:49:08,962 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:49:15,461 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:49:18,126 basehttp 154 "GET /play/download/104 HTTP/1.1" 200 3841088
+INFO 2020-05-26 10:50:47,040 basehttp 154 "GET / HTTP/1.1" 200 24313
+WARNING 2020-05-26 10:50:47,059 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 10:50:47,313 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:50:49,399 basehttp 154 "GET /play/11 HTTP/1.1" 200 13233
+INFO 2020-05-26 10:50:49,799 basehttp 154 "GET /static/songFile/%E6%9C%80%E5%90%8E%E4%B8%80%E9%A6%96%E6%83%85%E6%AD%8C.mp3 HTTP/1.1" 200 3696474
+INFO 2020-05-26 10:50:51,786 basehttp 154 "GET /play/download/11 HTTP/1.1" 200 3696474
+INFO 2020-05-26 10:51:11,084 autoreload 217 /Users/yjp/Desktop/music/play/views.py changed, reloading.
+INFO 2020-05-26 10:51:11,617 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:51:14,556 basehttp 154 "GET /play/11 HTTP/1.1" 200 13233
+INFO 2020-05-26 10:51:14,788 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 10:52:10,095 basehttp 154 "GET /play/download/11 HTTP/1.1" 200 3696474
+INFO 2020-05-26 10:52:24,373 basehttp 154 "GET /play/download/11 HTTP/1.1" 200 3696474
+INFO 2020-05-26 10:54:13,141 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:54:16,038 basehttp 154 "GET / HTTP/1.1" 200 24313
+WARNING 2020-05-26 10:54:16,072 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 10:54:18,026 basehttp 154 "GET /play/1 HTTP/1.1" 200 12431
+INFO 2020-05-26 10:54:18,287 basehttp 154 "GET /static/songFile/%E4%BC%B4%E4%BA%91.mp3 HTTP/1.1" 200 4407005
+INFO 2020-05-26 10:54:20,982 basehttp 154 "GET /play/download/1.mp3 HTTP/1.1" 200 4407005
+INFO 2020-05-26 10:57:24,150 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 10:57:28,976 basehttp 154 "GET /play/download/1.mp3 HTTP/1.1" 200 4407005
+INFO 2020-05-26 10:58:35,538 autoreload 217 /Users/yjp/Desktop/music/play/views.py changed, reloading.
+INFO 2020-05-26 10:58:36,073 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 11:10:36,436 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 11:10:39,788 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 11:10:39,816 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 11:10:39,907 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 11:10:42,139 basehttp 154 "GET /play/71 HTTP/1.1" 200 12441
+INFO 2020-05-26 11:10:43,434 basehttp 154 "GET /play/download/71.mp3 HTTP/1.1" 200 3969402
+INFO 2020-05-26 11:11:46,891 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 11:11:50,732 basehttp 154 "GET /play/2 HTTP/1.1" 200 12452
+INFO 2020-05-26 11:11:51,007 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 3901485
+INFO 2020-05-26 11:11:51,682 basehttp 154 "GET /play/download/2.mp3 HTTP/1.1" 200 3901485
+INFO 2020-05-26 12:32:05,500 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+WARNING 2020-05-26 12:32:05,544 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 12:32:05,663 basehttp 154 "GET /static/songImg/%E8%B6%85%E4%BA%BA.jpg HTTP/1.1" 200 4261654
+INFO 2020-05-26 12:32:32,335 basehttp 154 "GET /ranking?type=%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90%E4%BA%BA%20X%20%E9%97%BB%E8%89%BA%E8%B5%8B%E5%85%B4 HTTP/1.1" 200 16386
+INFO 2020-05-26 12:32:41,156 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+WARNING 2020-05-26 12:32:41,193 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 12:33:01,533 basehttp 154 "GET /ranking?type=%E5%94%90%E7%BE%BD%E6%96%87%E5%8C%96 HTTP/1.1" 200 16402
+INFO 2020-05-26 12:33:02,405 basehttp 154 "GET /ranking?type=%E5%BF%AB%E4%B9%90%E9%98%B3%E5%85%89 HTTP/1.1" 200 16460
+INFO 2020-05-26 12:33:03,201 basehttp 154 "GET /ranking?type=%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90%E4%BA%BA%20X%20%E9%97%BB%E8%89%BA%E8%B5%8B%E5%85%B4 HTTP/1.1" 200 16386
+INFO 2020-05-26 12:33:04,537 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+WARNING 2020-05-26 12:33:04,571 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 12:33:20,647 basehttp 154 "GET /ranking?type=%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90%E4%BA%BA%20X%20%E9%97%BB%E8%89%BA%E8%B5%8B%E5%85%B4 HTTP/1.1" 200 16386
+INFO 2020-05-26 12:35:49,383 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 12:37:10,229 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 12:38:02,529 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 12:38:06,911 basehttp 154 "GET /ranking HTTP/1.1" 200 24783
+WARNING 2020-05-26 12:38:06,945 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 12:38:09,030 basehttp 154 "GET /ranking?type1=%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90%E4%BA%BA%20X%20%E9%97%BB%E8%89%BA%E8%B5%8B%E5%85%B4 HTTP/1.1" 200 16439
+INFO 2020-05-26 12:38:17,715 basehttp 154 "GET /ranking HTTP/1.1" 200 24783
+WARNING 2020-05-26 12:38:17,754 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 12:38:48,763 basehttp 154 "GET /ranking?type1=%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90%E4%BA%BA%20X%20%E9%97%BB%E8%89%BA%E8%B5%8B%E5%85%B4 HTTP/1.1" 200 16439
+INFO 2020-05-26 12:38:58,398 basehttp 154 "GET /ranking?type1=%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90%E4%BA%BA%20X%20%E9%97%BB%E8%89%BA%E8%B5%8B%E5%85%B4 HTTP/1.1" 200 16439
+INFO 2020-05-26 12:39:46,946 basehttp 154 "GET /ranking?type1=%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90%E4%BA%BA%20X%20%E9%97%BB%E8%89%BA%E8%B5%8B%E5%85%B4 HTTP/1.1" 200 16439
+INFO 2020-05-26 12:40:19,325 autoreload 217 /Users/yjp/Desktop/music/ranking/views.py changed, reloading.
+INFO 2020-05-26 12:40:19,932 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 12:41:03,831 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+WARNING 2020-05-26 12:41:03,861 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 12:44:48,680 basehttp 154 "GET /play/2 HTTP/1.1" 200 12452
+INFO 2020-05-26 12:44:48,714 basehttp 154 "GET /static/css/common.css HTTP/1.1" 304 0
+INFO 2020-05-26 12:44:48,726 basehttp 154 "GET /static/image/logo.png HTTP/1.1" 304 0
+INFO 2020-05-26 12:44:48,726 basehttp 154 "GET /static/js/require.js HTTP/1.1" 304 0
+INFO 2020-05-26 12:44:48,783 basehttp 154 "GET /static/js/jquery.min.js HTTP/1.1" 304 0
+INFO 2020-05-26 12:44:48,784 basehttp 154 "GET /static/js/common.min.js HTTP/1.1" 304 0
+INFO 2020-05-26 12:44:48,810 basehttp 154 "GET /static/songImg/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 12:44:48,998 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 3901485
+INFO 2020-05-26 12:44:51,221 basehttp 154 "GET /comment/2 HTTP/1.1" 200 4377
+INFO 2020-05-26 12:44:51,249 basehttp 154 "GET /static/css/comment.css HTTP/1.1" 200 325800
+INFO 2020-05-26 12:45:01,575 basehttp 154 "POST /comment/2 HTTP/1.1" 302 0
+WARNING 2020-05-26 12:45:01,584 log 228 Not Found: /comment/2.html
+WARNING 2020-05-26 12:45:01,584 basehttp 154 "GET /comment/2.html HTTP/1.1" 404 2755
+WARNING 2020-05-26 12:45:01,701 log 228 Not Found: /favicon.ico
+WARNING 2020-05-26 12:45:01,701 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2664
+INFO 2020-05-26 12:49:28,338 autoreload 597 Watching for file changes with StatReloader
+WARNING 2020-05-26 12:49:30,691 log 228 Not Found: /comment/2.html
+WARNING 2020-05-26 12:49:30,691 basehttp 154 "GET /comment/2.html HTTP/1.1" 404 2755
+WARNING 2020-05-26 12:49:31,654 log 228 Not Found: /comment/2.html
+WARNING 2020-05-26 12:49:31,655 basehttp 154 "GET /comment/2.html HTTP/1.1" 404 2755
+INFO 2020-05-26 12:49:35,783 basehttp 154 "GET /play/1 HTTP/1.1" 200 12431
+INFO 2020-05-26 12:49:35,812 basehttp 154 "GET /static/js/require.js HTTP/1.1" 304 0
+INFO 2020-05-26 12:49:35,814 basehttp 154 "GET /static/image/logo.png HTTP/1.1" 304 0
+INFO 2020-05-26 12:49:35,864 basehttp 154 "GET /static/font/iconfont.woff HTTP/1.1" 304 0
+INFO 2020-05-26 12:49:35,979 basehttp 154 "GET /static/songImg/%E4%BC%B4%E4%BA%91.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 12:49:37,078 basehttp 154 "GET /comment/1 HTTP/1.1" 200 4365
+INFO 2020-05-26 12:49:38,783 basehttp 154 "POST /comment/1 HTTP/1.1" 302 0
+WARNING 2020-05-26 12:49:38,791 log 228 Not Found: /comment/1.html
+WARNING 2020-05-26 12:49:38,792 basehttp 154 "GET /comment/1.html HTTP/1.1" 404 2755
+INFO 2020-05-26 12:50:23,576 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+INFO 2020-05-26 12:50:23,599 basehttp 154 "GET /static/css/ranking.css HTTP/1.1" 304 0
+INFO 2020-05-26 12:50:23,599 basehttp 154 "GET /static/songImg/%E6%9C%80%E5%90%8E%E4%B8%80%E9%A6%96%E6%83%85%E6%AD%8C.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 12:50:23,603 basehttp 154 "GET /static/songImg/%E4%BC%B4%E4%BA%91.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 12:50:23,609 basehttp 154 "GET /static/songImg/%E5%A5%BD%E6%83%B3%E7%88%B1%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%95%8A%20(Live).jpg HTTP/1.1" 304 0
+INFO 2020-05-26 12:50:23,610 basehttp 154 "GET /static/songImg/%E9%A3%9E%E4%BA%91%E4%B9%8B%E4%B8%8B.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 12:50:23,613 basehttp 154 "GET /static/songImg/%E8%85%BB%E5%91%B3.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 12:50:23,614 basehttp 154 "GET /static/songImg/%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3.jpg HTTP/1.1" 304 0
+WARNING 2020-05-26 12:50:23,616 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 12:50:23,631 basehttp 154 "GET /static/js/ranking.js HTTP/1.1" 304 0
+INFO 2020-05-26 12:50:26,589 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+WARNING 2020-05-26 12:50:26,615 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 12:50:51,696 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+WARNING 2020-05-26 12:50:51,721 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+WARNING 2020-05-26 12:51:03,352 log 228 Not Found: /ranking.html
+WARNING 2020-05-26 12:51:03,352 basehttp 154 "GET /ranking.html HTTP/1.1" 404 2730
+INFO 2020-05-26 12:51:07,606 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+WARNING 2020-05-26 12:51:07,636 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 12:51:30,321 basehttp 154 "GET / HTTP/1.1" 200 24307
+INFO 2020-05-26 12:51:30,343 basehttp 154 "GET /static/css/index.css HTTP/1.1" 304 0
+INFO 2020-05-26 12:51:30,343 basehttp 154 "GET /static/image/logo.png HTTP/1.1" 200 5957
+INFO 2020-05-26 12:51:30,345 basehttp 154 "GET /static/js/require.js HTTP/1.1" 200 28004
+INFO 2020-05-26 12:51:30,345 basehttp 154 "GET /static/css/common.css HTTP/1.1" 200 24618
+WARNING 2020-05-26 12:51:30,348 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 12:51:30,660 basehttp 154 "GET /static/image/laud.png HTTP/1.1" 304 0
+WARNING 2020-05-26 12:51:30,662 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 12:51:30,730 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2020-05-26 12:51:30,776 basehttp 154 "GET /static/js/common.min.js HTTP/1.1" 200 6530
+INFO 2020-05-26 12:51:30,777 basehttp 154 "GET /static/js/jquery.min.js HTTP/1.1" 200 129574
+INFO 2020-05-26 12:51:30,823 basehttp 154 "GET /static/image/tu3.png HTTP/1.1" 304 0
+INFO 2020-05-26 12:51:30,828 basehttp 154 "GET /static/image/datu-1.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 12:51:30,829 basehttp 154 "GET /static/image/datu-2.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 12:51:30,831 basehttp 154 "GET /static/image/tu2.png HTTP/1.1" 304 0
+INFO 2020-05-26 12:51:30,838 basehttp 154 "GET /static/songImg/%E4%BC%B4%E4%BA%91.jpg HTTP/1.1" 200 58709
+INFO 2020-05-26 12:51:30,850 basehttp 154 "GET /static/songImg/%E6%9C%80%E5%90%8E%E4%B8%80%E9%A6%96%E6%83%85%E6%AD%8C.jpg HTTP/1.1" 200 28870
+INFO 2020-05-26 12:51:30,860 basehttp 154 "GET /static/songImg/%E5%A5%BD%E6%83%B3%E7%88%B1%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%95%8A%20(Live).jpg HTTP/1.1" 200 661713
+INFO 2020-05-26 12:51:30,863 basehttp 154 "GET /static/songImg/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.jpg HTTP/1.1" 200 864727
+INFO 2020-05-26 12:51:30,865 basehttp 154 "GET /static/songImg/%E6%97%A0%E4%BA%BA%E4%B9%8B%E5%B2%9B.jpg HTTP/1.1" 200 70521
+INFO 2020-05-26 12:51:30,867 basehttp 154 "GET /static/songImg/%E8%85%BB%E5%91%B3.jpg HTTP/1.1" 200 437320
+INFO 2020-05-26 12:51:30,869 basehttp 154 "GET /static/songImg/%E9%A3%9E%E4%BA%91%E4%B9%8B%E4%B8%8B.jpg HTTP/1.1" 200 590643
+INFO 2020-05-26 12:51:30,877 basehttp 154 "GET /static/songImg/%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3.jpg HTTP/1.1" 200 1695529
+INFO 2020-05-26 12:51:31,896 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+WARNING 2020-05-26 12:51:31,929 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 12:51:31,930 basehttp 154 "GET /static/css/ranking.css HTTP/1.1" 200 41868
+INFO 2020-05-26 12:51:31,973 basehttp 154 "GET /static/js/ranking.js HTTP/1.1" 200 1574
+INFO 2020-05-26 12:51:32,021 basehttp 154 "GET /static/songImg/%E8%B6%85%E4%BA%BA.jpg HTTP/1.1" 200 4261654
+INFO 2020-05-26 12:51:46,523 basehttp 154 "GET /play/2 HTTP/1.1" 200 12452
+INFO 2020-05-26 12:51:46,553 basehttp 154 "GET /static/css/play.css HTTP/1.1" 200 326210
+INFO 2020-05-26 12:51:46,598 basehttp 154 "GET /static/font/iconfont.woff HTTP/1.1" 200 5740
+INFO 2020-05-26 12:51:46,602 basehttp 154 "GET /static/js/play.js HTTP/1.1" 200 31245
+INFO 2020-05-26 12:51:46,625 basehttp 154 "GET /static/js/jquery.jplayer.js HTTP/1.1" 200 121203
+INFO 2020-05-26 12:51:46,945 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 3901485
+INFO 2020-05-26 12:51:47,058 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 12:51:47,502 basehttp 154 "GET /comment/2 HTTP/1.1" 200 5356
+INFO 2020-05-26 12:51:47,533 basehttp 154 "GET /static/image/user.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 12:51:47,534 basehttp 154 "GET /static/css/comment.css HTTP/1.1" 200 325800
+INFO 2020-05-26 12:51:56,374 basehttp 154 "POST /comment/2 HTTP/1.1" 302 0
+WARNING 2020-05-26 12:51:56,383 log 228 Not Found: /comment/2.html
+WARNING 2020-05-26 12:51:56,383 basehttp 154 "GET /comment/2.html HTTP/1.1" 404 2755
+WARNING 2020-05-26 12:51:56,489 log 228 Not Found: /favicon.ico
+WARNING 2020-05-26 12:51:56,489 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2664
+INFO 2020-05-26 12:52:23,410 basehttp 154 "GET /play/2 HTTP/1.1" 200 12452
+INFO 2020-05-26 12:52:23,699 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 3901485
+INFO 2020-05-26 12:52:24,447 basehttp 154 "GET /comment/2 HTTP/1.1" 200 6335
+INFO 2020-05-26 12:54:36,343 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 12:54:40,297 basehttp 154 "GET /play/2 HTTP/1.1" 200 12452
+INFO 2020-05-26 12:54:40,558 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 3901485
+INFO 2020-05-26 12:54:41,385 basehttp 154 "GET /comment/2 HTTP/1.1" 200 6335
+INFO 2020-05-26 12:54:58,605 basehttp 154 "GET /play/11 HTTP/1.1" 200 13775
+INFO 2020-05-26 12:54:59,917 basehttp 154 "GET /comment/11 HTTP/1.1" 200 4390
+INFO 2020-05-26 12:55:37,985 basehttp 154 "GET /comment/11 HTTP/1.1" 200 4390
+INFO 2020-05-26 12:55:38,052 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 12:55:38,558 basehttp 154 "GET /comment/11 HTTP/1.1" 200 4390
+INFO 2020-05-26 12:55:38,602 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 12:55:38,737 basehttp 154 "GET /comment/11 HTTP/1.1" 200 4390
+INFO 2020-05-26 12:55:38,780 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 12:55:39,221 basehttp 154 "GET /comment/11 HTTP/1.1" 200 4390
+INFO 2020-05-26 12:55:39,262 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 12:55:41,216 basehttp 154 "GET /play/1 HTTP/1.1" 200 12431
+INFO 2020-05-26 12:55:41,489 basehttp 154 "GET /static/songFile/%E4%BC%B4%E4%BA%91.mp3 HTTP/1.1" 200 4407005
+INFO 2020-05-26 12:55:42,356 basehttp 154 "GET /comment/1 HTTP/1.1" 200 5333
+INFO 2020-05-26 12:55:48,146 basehttp 154 "POST /comment/1 HTTP/1.1" 302 0
+WARNING 2020-05-26 12:55:48,156 log 228 Not Found: /comment/1.html
+WARNING 2020-05-26 12:55:48,156 basehttp 154 "GET /comment/1.html HTTP/1.1" 404 2755
+INFO 2020-05-26 12:56:28,134 autoreload 217 /Users/yjp/Desktop/music/comment/urls.py changed, reloading.
+INFO 2020-05-26 12:56:28,674 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 12:56:33,614 basehttp 154 "GET /comment/1.html HTTP/1.1" 200 6309
+INFO 2020-05-26 12:56:38,494 basehttp 154 "POST /comment/1.html HTTP/1.1" 302 0
+INFO 2020-05-26 12:56:38,511 basehttp 154 "GET /comment/1.html HTTP/1.1" 200 6565
+INFO 2020-05-26 12:56:40,492 basehttp 154 "GET /comment/1.html?page=2 HTTP/1.1" 200 5597
+INFO 2020-05-26 12:56:44,583 basehttp 154 "GET /comment/1.html?page=1 HTTP/1.1" 200 6565
+INFO 2020-05-26 12:57:38,850 autoreload 597 Watching for file changes with StatReloader
+WARNING 2020-05-26 12:57:43,994 log 228 Not Found: /comment/1.html
+WARNING 2020-05-26 12:57:43,995 basehttp 154 "POST /comment/1.html?page=1 HTTP/1.1" 404 2763
+INFO 2020-05-26 13:07:45,100 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 5556
+INFO 2020-05-26 13:07:45,129 basehttp 154 "GET /static/css/user.css HTTP/1.1" 304 0
+INFO 2020-05-26 13:07:45,141 basehttp 154 "GET /static/image/user_bg.jpg HTTP/1.1" 304 0
+INFO 2020-05-26 13:07:46,596 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:07:46,624 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:07:50,665 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+WARNING 2020-05-26 13:07:50,695 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 13:07:54,008 basehttp 154 "GET /play/2 HTTP/1.1" 200 12452
+INFO 2020-05-26 13:07:55,132 basehttp 154 "GET /comment/2 HTTP/1.1" 200 6335
+INFO 2020-05-26 13:07:55,136 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 1228800
+INFO 2020-05-26 13:08:19,528 basehttp 154 "POST /comment/2 HTTP/1.1" 302 0
+INFO 2020-05-26 13:08:19,545 basehttp 154 "GET /comment/2 HTTP/1.1" 200 6581
+INFO 2020-05-26 13:08:21,888 basehttp 154 "GET /comment/2?page=2 HTTP/1.1" 200 5593
+INFO 2020-05-26 13:10:45,264 autoreload 217 /Users/yjp/Desktop/music/comment/urls.py changed, reloading.
+INFO 2020-05-26 13:10:45,845 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:11:10,691 autoreload 217 /Users/yjp/Desktop/music/comment/urls.py changed, reloading.
+INFO 2020-05-26 13:11:11,219 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:11:23,110 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:11:59,868 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:13:14,991 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:13:17,241 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:13:17,284 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:13:20,837 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+WARNING 2020-05-26 13:13:20,870 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+ERROR 2020-05-26 13:13:22,108 log 228 Internal Server Error: /play/2
+Traceback (most recent call last):
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/yjp/Desktop/music/play/views.py", line 46, in playView
+    response = render(request, 'play.html', locals())
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/resolvers.py", line 673, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'comment' with arguments '(2,)' not found. 1 pattern(s) tried: ['comment\\/<int:song_id>']
+ERROR 2020-05-26 13:13:22,111 basehttp 154 "GET /play/2 HTTP/1.1" 500 186193
+ERROR 2020-05-26 13:15:07,706 log 228 Internal Server Error: /play/2
+Traceback (most recent call last):
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/yjp/Desktop/music/play/views.py", line 46, in playView
+    response = render(request, 'play.html', locals())
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/resolvers.py", line 673, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'comment' with arguments '(2,)' not found. 1 pattern(s) tried: ['comment\\/<int:song_id>']
+ERROR 2020-05-26 13:15:07,707 basehttp 154 "GET /play/2 HTTP/1.1" 500 186328
+ERROR 2020-05-26 13:15:08,131 log 228 Internal Server Error: /play/2
+Traceback (most recent call last):
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/yjp/Desktop/music/play/views.py", line 46, in playView
+    response = render(request, 'play.html', locals())
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/resolvers.py", line 673, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'comment' with arguments '(2,)' not found. 1 pattern(s) tried: ['comment\\/<int:song_id>']
+ERROR 2020-05-26 13:15:08,132 basehttp 154 "GET /play/2 HTTP/1.1" 500 186328
+WARNING 2020-05-26 13:15:12,230 log 228 Not Found: /play/2.html
+WARNING 2020-05-26 13:15:12,231 basehttp 154 "GET /play/2.html HTTP/1.1" 404 2944
+WARNING 2020-05-26 13:15:16,605 log 228 Not Found: /play/2.html
+WARNING 2020-05-26 13:15:16,605 basehttp 154 "GET /play/2.html HTTP/1.1" 404 2944
+ERROR 2020-05-26 13:15:19,604 log 228 Internal Server Error: /play/2
+Traceback (most recent call last):
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/yjp/Desktop/music/play/views.py", line 46, in playView
+    response = render(request, 'play.html', locals())
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/resolvers.py", line 673, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'comment' with arguments '(2,)' not found. 1 pattern(s) tried: ['comment\\/<int:song_id>']
+ERROR 2020-05-26 13:15:19,605 basehttp 154 "GET /play/2 HTTP/1.1" 500 186037
+INFO 2020-05-26 13:17:44,910 autoreload 597 Watching for file changes with StatReloader
+WARNING 2020-05-26 13:17:47,148 log 228 Not Found: /play/2
+WARNING 2020-05-26 13:17:47,148 basehttp 154 "GET /play/2 HTTP/1.1" 404 2934
+WARNING 2020-05-26 13:17:50,899 log 228 Not Found: /play/2
+WARNING 2020-05-26 13:17:50,899 basehttp 154 "GET /play/2 HTTP/1.1" 404 2934
+WARNING 2020-05-26 13:17:51,484 log 228 Not Found: /play/2
+WARNING 2020-05-26 13:17:51,484 basehttp 154 "GET /play/2 HTTP/1.1" 404 2934
+WARNING 2020-05-26 13:17:51,688 log 228 Not Found: /play/2
+WARNING 2020-05-26 13:17:51,689 basehttp 154 "GET /play/2 HTTP/1.1" 404 2934
+INFO 2020-05-26 13:18:01,871 basehttp 154 "GET / HTTP/1.1" 200 24702
+WARNING 2020-05-26 13:18:01,913 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 13:18:02,169 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:18:03,519 basehttp 154 "GET /ranking HTTP/1.1" 200 24850
+WARNING 2020-05-26 13:18:03,558 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+ERROR 2020-05-26 13:18:04,808 log 228 Internal Server Error: /play/2.html
+Traceback (most recent call last):
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/yjp/Desktop/music/play/views.py", line 46, in playView
+    response = render(request, 'play.html', locals())
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/resolvers.py", line 673, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'comment' with arguments '(2,)' not found. 1 pattern(s) tried: ['comment\\/<int:song_id>']
+ERROR 2020-05-26 13:18:04,811 basehttp 154 "GET /play/2.html HTTP/1.1" 500 186332
+WARNING 2020-05-26 13:18:05,126 log 228 Not Found: /favicon.ico
+WARNING 2020-05-26 13:18:05,126 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2664
+INFO 2020-05-26 13:19:40,184 autoreload 217 /Users/yjp/Desktop/music/comment/urls.py changed, reloading.
+INFO 2020-05-26 13:19:40,752 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:19:43,629 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+WARNING 2020-05-26 13:19:43,671 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 13:19:43,820 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 13:19:44,240 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+WARNING 2020-05-26 13:19:44,272 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 13:19:44,323 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 13:19:44,413 basehttp 154 "GET /ranking HTTP/1.1" 200 24730
+WARNING 2020-05-26 13:19:44,439 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 13:19:44,475 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 13:19:46,518 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:19:46,542 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 13:19:46,834 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+ERROR 2020-05-26 13:19:53,656 log 228 Internal Server Error: /play/1
+Traceback (most recent call last):
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/yjp/Desktop/music/play/views.py", line 46, in playView
+    response = render(request, 'play.html', locals())
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/template/defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/urls/resolvers.py", line 673, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'comment' with arguments '(1,)' not found. 1 pattern(s) tried: ['comment\\/<int:song_id>.html']
+ERROR 2020-05-26 13:19:53,658 basehttp 154 "GET /play/1 HTTP/1.1" 500 186435
+INFO 2020-05-26 13:20:33,292 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:20:35,471 basehttp 154 "GET /play/1 HTTP/1.1" 200 12436
+INFO 2020-05-26 13:20:39,625 basehttp 154 "GET /comment/1.html HTTP/1.1" 200 6565
+INFO 2020-05-26 13:20:39,630 basehttp 154 "GET /static/songFile/%E4%BC%B4%E4%BA%91.mp3 HTTP/1.1" 200 1318912
+INFO 2020-05-26 13:20:41,886 basehttp 154 "POST /comment/1.html HTTP/1.1" 302 0
+WARNING 2020-05-26 13:20:41,896 log 228 Not Found: /comment/1
+WARNING 2020-05-26 13:20:41,896 basehttp 154 "GET /comment/1 HTTP/1.1" 404 2745
+INFO 2020-05-26 13:20:57,841 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:21:13,879 basehttp 154 "GET / HTTP/1.1" 200 24307
+INFO 2020-05-26 13:21:13,931 basehttp 154 "GET /static/css/common.css HTTP/1.1" 200 24618
+INFO 2020-05-26 13:21:13,949 basehttp 154 "GET /static/image/logo.png HTTP/1.1" 200 5957
+WARNING 2020-05-26 13:21:13,952 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:21:13,952 basehttp 154 "GET /static/js/require.js HTTP/1.1" 200 28004
+INFO 2020-05-26 13:21:14,063 basehttp 154 "GET /static/css/index.css HTTP/1.1" 200 59724
+INFO 2020-05-26 13:21:14,070 basehttp 154 "GET /static/image/laud.png HTTP/1.1" 200 1720
+WARNING 2020-05-26 13:21:14,126 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:21:14,198 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 7223
+INFO 2020-05-26 13:21:14,217 basehttp 154 "GET /static/font/iconfont.woff HTTP/1.1" 200 5740
+INFO 2020-05-26 13:21:14,267 basehttp 154 "GET /static/js/common.min.js HTTP/1.1" 200 6530
+INFO 2020-05-26 13:21:14,269 basehttp 154 "GET /static/js/jquery.min.js HTTP/1.1" 200 129574
+INFO 2020-05-26 13:21:14,324 basehttp 154 "GET /static/image/datu-1.jpg HTTP/1.1" 200 108815
+INFO 2020-05-26 13:21:14,324 basehttp 154 "GET /static/songImg/%E4%BC%B4%E4%BA%91.jpg HTTP/1.1" 200 58709
+INFO 2020-05-26 13:21:14,325 basehttp 154 "GET /static/image/datu-2.jpg HTTP/1.1" 200 99784
+INFO 2020-05-26 13:21:14,344 basehttp 154 "GET /static/image/tu3.png HTTP/1.1" 200 502070
+INFO 2020-05-26 13:21:14,356 basehttp 154 "GET /static/songImg/%E6%9C%80%E5%90%8E%E4%B8%80%E9%A6%96%E6%83%85%E6%AD%8C.jpg HTTP/1.1" 200 28870
+INFO 2020-05-26 13:21:14,360 basehttp 154 "GET /static/songImg/%E8%85%BB%E5%91%B3.jpg HTTP/1.1" 200 437320
+INFO 2020-05-26 13:21:14,363 basehttp 154 "GET /static/image/tu2.png HTTP/1.1" 200 846222
+INFO 2020-05-26 13:21:14,364 basehttp 154 "GET /static/songImg/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.jpg HTTP/1.1" 200 864727
+INFO 2020-05-26 13:21:14,366 basehttp 154 "GET /static/songImg/%E5%A5%BD%E6%83%B3%E7%88%B1%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%95%8A%20(Live).jpg HTTP/1.1" 200 661713
+INFO 2020-05-26 13:21:14,367 basehttp 154 "GET /static/songImg/%E6%97%A0%E4%BA%BA%E4%B9%8B%E5%B2%9B.jpg HTTP/1.1" 200 70521
+INFO 2020-05-26 13:21:14,372 basehttp 154 "GET /static/songImg/%E9%A3%9E%E4%BA%91%E4%B9%8B%E4%B8%8B.jpg HTTP/1.1" 200 590643
+INFO 2020-05-26 13:21:14,424 basehttp 154 "GET /static/songImg/%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3.jpg HTTP/1.1" 200 1695529
+INFO 2020-05-26 13:21:17,839 basehttp 154 "GET /play/11 HTTP/1.1" 200 13775
+INFO 2020-05-26 13:21:17,863 basehttp 154 "GET /static/css/play.css HTTP/1.1" 200 326210
+INFO 2020-05-26 13:21:17,911 basehttp 154 "GET /static/js/play.js HTTP/1.1" 200 31245
+INFO 2020-05-26 13:21:17,936 basehttp 154 "GET /static/js/jquery.jplayer.js HTTP/1.1" 200 121203
+INFO 2020-05-26 13:21:18,245 basehttp 154 "GET /static/songFile/%E6%9C%80%E5%90%8E%E4%B8%80%E9%A6%96%E6%83%85%E6%AD%8C.mp3 HTTP/1.1" 200 3696474
+INFO 2020-05-26 13:21:18,380 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 13:21:19,359 basehttp 154 "GET /comment/11 HTTP/1.1" 200 4390
+INFO 2020-05-26 13:21:19,389 basehttp 154 "GET /static/css/comment.css HTTP/1.1" 200 325800
+INFO 2020-05-26 13:21:24,670 basehttp 154 "POST /comment/11 HTTP/1.1" 302 0
+INFO 2020-05-26 13:21:24,689 basehttp 154 "GET /comment/11 HTTP/1.1" 200 5363
+INFO 2020-05-26 13:21:24,715 basehttp 154 "GET /static/image/user.jpg HTTP/1.1" 200 669
+INFO 2020-05-26 13:21:31,849 basehttp 154 "POST /comment/11 HTTP/1.1" 302 0
+INFO 2020-05-26 13:21:31,866 basehttp 154 "GET /comment/11 HTTP/1.1" 200 6348
+INFO 2020-05-26 13:21:48,877 autoreload 217 /Users/yjp/Desktop/music/comment/urls.py changed, reloading.
+INFO 2020-05-26 13:21:49,443 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:21:49,678 basehttp 154 "GET /ranking HTTP/1.1" 200 24732
+INFO 2020-05-26 13:21:49,712 basehttp 154 "GET /static/css/ranking.css HTTP/1.1" 200 41868
+WARNING 2020-05-26 13:21:49,733 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 13:21:49,770 basehttp 154 "GET /static/js/ranking.js HTTP/1.1" 200 1574
+INFO 2020-05-26 13:21:49,877 basehttp 154 "GET /static/songImg/%E8%B6%85%E4%BA%BA.jpg HTTP/1.1" 200 4261654
+INFO 2020-05-26 13:21:52,080 basehttp 154 "GET /ranking?type=%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90%E4%BA%BA%20X%20%E9%97%BB%E8%89%BA%E8%B5%8B%E5%85%B4 HTTP/1.1" 200 16387
+INFO 2020-05-26 13:21:52,907 basehttp 154 "GET /ranking?type=%E5%94%90%E7%BE%BD%E6%96%87%E5%8C%96 HTTP/1.1" 200 16402
+INFO 2020-05-26 13:21:54,096 basehttp 154 "GET /ranking?type=%E5%BF%AB%E4%B9%90%E9%98%B3%E5%85%89 HTTP/1.1" 200 16460
+INFO 2020-05-26 13:21:56,722 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 5556
+INFO 2020-05-26 13:21:56,744 basehttp 154 "GET /static/css/user.css HTTP/1.1" 200 17205
+INFO 2020-05-26 13:21:56,754 basehttp 154 "GET /static/image/user_bg.jpg HTTP/1.1" 200 118973
+INFO 2020-05-26 13:21:58,186 basehttp 154 "GET /user/logout HTTP/1.1" 302 0
+INFO 2020-05-26 13:21:58,213 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:21:58,242 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:21:59,803 basehttp 154 "GET /user/home/1 HTTP/1.1" 302 0
+INFO 2020-05-26 13:21:59,833 basehttp 154 "GET /user/login.html?next=/user/home/1 HTTP/1.1" 200 4664
+INFO 2020-05-26 13:21:59,858 basehttp 154 "GET /static/css/register.css HTTP/1.1" 304 0
+INFO 2020-05-26 13:21:59,877 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-05-26 13:22:03,026 basehttp 154 "POST /user/login.html?next=/user/home/1 HTTP/1.1" 302 0
+WARNING 2020-05-26 13:22:03,035 log 228 Not Found: /user/home/1.html
+WARNING 2020-05-26 13:22:03,036 basehttp 154 "GET /user/home/1.html HTTP/1.1" 404 3109
+WARNING 2020-05-26 13:22:03,175 log 228 Not Found: /favicon.ico
+WARNING 2020-05-26 13:22:03,175 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2664
+INFO 2020-05-26 13:22:49,490 autoreload 597 Watching for file changes with StatReloader
+WARNING 2020-05-26 13:22:51,322 log 228 Not Found: /user/home/1.html
+WARNING 2020-05-26 13:22:51,323 basehttp 154 "GET /user/home/1.html HTTP/1.1" 404 3109
+INFO 2020-05-26 13:22:54,542 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 3751
+INFO 2020-05-26 13:22:56,037 basehttp 154 "GET /user/logout HTTP/1.1" 302 0
+INFO 2020-05-26 13:22:56,067 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:22:56,094 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:22:57,191 basehttp 154 "GET /user/home/1 HTTP/1.1" 302 0
+INFO 2020-05-26 13:22:57,217 basehttp 154 "GET /user/login.html?next=/user/home/1 HTTP/1.1" 200 4664
+INFO 2020-05-26 13:23:00,663 basehttp 154 "POST /user/login.html?next=/user/home/1 HTTP/1.1" 302 0
+INFO 2020-05-26 13:23:00,679 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 3751
+INFO 2020-05-26 13:23:08,447 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:23:08,479 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:23:12,996 basehttp 154 "GET /play/2 HTTP/1.1" 200 9732
+INFO 2020-05-26 13:23:13,238 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 3901485
+INFO 2020-05-26 13:23:14,689 basehttp 154 "GET /comment/2 HTTP/1.1" 200 6581
+INFO 2020-05-26 13:23:19,910 basehttp 154 "POST /comment/2 HTTP/1.1" 302 0
+INFO 2020-05-26 13:23:19,927 basehttp 154 "GET /comment/2 HTTP/1.1" 200 6581
+INFO 2020-05-26 13:23:21,383 basehttp 154 "GET /comment/2?page=2 HTTP/1.1" 200 6568
+INFO 2020-05-26 13:23:36,020 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 4251
+INFO 2020-05-26 13:23:37,087 basehttp 154 "GET /user/logout HTTP/1.1" 302 0
+INFO 2020-05-26 13:23:37,116 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:23:37,144 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:23:38,181 basehttp 154 "GET /user/home/1 HTTP/1.1" 302 0
+INFO 2020-05-26 13:23:38,193 basehttp 154 "GET /user/login.html?next=/user/home/1 HTTP/1.1" 200 4664
+INFO 2020-05-26 13:23:41,445 basehttp 154 "POST /user/login.html?next=/user/home/1 HTTP/1.1" 302 0
+INFO 2020-05-26 13:23:41,460 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 3751
+INFO 2020-05-26 13:23:43,514 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:23:43,545 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:23:51,228 basehttp 154 "GET /ranking HTTP/1.1" 200 24732
+WARNING 2020-05-26 13:23:51,259 basehttp 154 "GET /static/songImg/1 HTTP/1.1" 404 1651
+INFO 2020-05-26 13:28:12,524 autoreload 217 /Users/yjp/Desktop/music/user/views.py changed, reloading.
+INFO 2020-05-26 13:28:13,138 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:28:23,997 autoreload 217 /Users/yjp/Desktop/music/user/views.py changed, reloading.
+INFO 2020-05-26 13:28:24,549 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:28:24,825 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 3751
+INFO 2020-05-26 13:28:24,890 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 13:28:26,084 basehttp 154 "GET /user/logout HTTP/1.1" 302 0
+INFO 2020-05-26 13:28:26,111 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:28:26,138 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:28:27,295 basehttp 154 "GET /user/home/1 HTTP/1.1" 302 0
+INFO 2020-05-26 13:28:27,323 basehttp 154 "GET /user/login.html?next=/user/home/1 HTTP/1.1" 200 4664
+INFO 2020-05-26 13:29:34,141 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:29:34,172 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:29:36,962 basehttp 154 "GET /user/home/1 HTTP/1.1" 302 0
+INFO 2020-05-26 13:29:36,976 basehttp 154 "GET /user/login.html?next=/user/home/1 HTTP/1.1" 200 4664
+INFO 2020-05-26 13:30:49,005 basehttp 154 "GET /user/login.html?next=/user/home/1 HTTP/1.1" 200 4664
+INFO 2020-05-26 13:30:49,078 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 13:30:50,939 basehttp 154 "GET /user/login.html?next=/user/home/1 HTTP/1.1" 200 4664
+INFO 2020-05-26 13:30:50,983 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 13:31:18,614 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:31:21,003 basehttp 154 "GET /user/login.html?next=/user/home/1 HTTP/1.1" 200 3371
+INFO 2020-05-26 13:31:21,073 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 13:31:22,646 basehttp 154 "GET /user/logout HTTP/1.1" 302 0
+INFO 2020-05-26 13:31:22,677 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:31:22,705 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:31:23,967 basehttp 154 "GET /user/home/1 HTTP/1.1" 302 0
+INFO 2020-05-26 13:31:23,976 basehttp 154 "GET /user/login.html?next=/user/home/1 HTTP/1.1" 200 3371
+INFO 2020-05-26 13:31:30,392 basehttp 154 "GET /user/logout HTTP/1.1" 302 0
+INFO 2020-05-26 13:31:30,421 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:31:30,447 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:31:31,449 basehttp 154 "GET /user/home/1 HTTP/1.1" 302 0
+INFO 2020-05-26 13:31:31,458 basehttp 154 "GET /user/login.html?next=/user/home/1 HTTP/1.1" 200 3371
+INFO 2020-05-26 13:31:42,608 autoreload 217 /Users/yjp/Desktop/music/user/views.py changed, reloading.
+INFO 2020-05-26 13:31:43,203 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:31:43,613 basehttp 154 "GET /user/login.html?next=/user/home/1 HTTP/1.1" 200 4664
+INFO 2020-05-26 13:31:43,676 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 13:32:50,268 basehttp 154 "POST /user/login.html?next=/user/home/1 HTTP/1.1" 302 0
+INFO 2020-05-26 13:32:50,289 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 3751
+INFO 2020-05-26 13:32:52,523 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:32:52,552 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:32:56,305 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 3751
+INFO 2020-05-26 13:34:23,269 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:34:23,297 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:34:25,544 basehttp 154 "GET /play/30 HTTP/1.1" 200 9737
+INFO 2020-05-26 13:34:26,769 basehttp 154 "GET /comment/30 HTTP/1.1" 200 4378
+INFO 2020-05-26 13:34:26,773 basehttp 154 "GET /static/songFile/%E9%A3%9E%E4%BA%91%E4%B9%8B%E4%B8%8B.mp3 HTTP/1.1" 200 7282688
+INFO 2020-05-26 13:34:42,747 basehttp 154 "POST /comment/30 HTTP/1.1" 302 0
+INFO 2020-05-26 13:34:42,764 basehttp 154 "GET /comment/30 HTTP/1.1" 200 5350
+INFO 2020-05-26 13:35:02,695 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:35:04,907 basehttp 154 "GET /comment/30 HTTP/1.1" 200 5350
+INFO 2020-05-26 13:35:04,962 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 13:36:34,513 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 4254
+INFO 2020-05-26 13:36:36,279 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:36:36,307 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:36:42,161 basehttp 154 "GET /play/13 HTTP/1.1" 200 10261
+INFO 2020-05-26 13:36:43,299 basehttp 154 "GET /comment/13 HTTP/1.1" 200 4366
+INFO 2020-05-26 13:36:43,305 basehttp 154 "GET /static/songFile/%E8%B6%85%E4%BA%BA.mp3 HTTP/1.1" 200 4775936
+INFO 2020-05-26 13:36:49,372 basehttp 154 "POST /comment/13 HTTP/1.1" 302 0
+INFO 2020-05-26 13:36:49,390 basehttp 154 "GET /comment/13 HTTP/1.1" 200 5341
+INFO 2020-05-26 13:39:09,586 autoreload 217 /Users/yjp/Desktop/music/comment/views.py changed, reloading.
+INFO 2020-05-26 13:39:10,245 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:42:21,154 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:42:30,628 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 4754
+INFO 2020-05-26 13:42:32,917 basehttp 154 "GET /play/30 HTTP/1.1" 200 10279
+INFO 2020-05-26 13:42:33,934 basehttp 154 "GET /comment/30 HTTP/1.1" 200 5350
+INFO 2020-05-26 13:42:33,938 basehttp 154 "GET /static/songFile/%E9%A3%9E%E4%BA%91%E4%B9%8B%E4%B8%8B.mp3 HTTP/1.1" 200 7536640
+INFO 2020-05-26 13:43:05,484 basehttp 154 "POST /comment/30 HTTP/1.1" 302 0
+INFO 2020-05-26 13:43:05,503 basehttp 154 "GET /comment/30 HTTP/1.1" 200 6319
+INFO 2020-05-26 13:43:22,672 basehttp 154 "POST /comment/30 HTTP/1.1" 302 0
+INFO 2020-05-26 13:43:22,690 basehttp 154 "GET /comment/30 HTTP/1.1" 200 6567
+INFO 2020-05-26 13:43:24,081 basehttp 154 "GET /comment/30?page=2 HTTP/1.1" 200 5595
+INFO 2020-05-26 13:43:27,976 basehttp 154 "GET /comment/30?page=1 HTTP/1.1" 200 6567
+INFO 2020-05-26 13:43:30,362 basehttp 154 "GET /comment/30?page=2 HTTP/1.1" 200 5595
+INFO 2020-05-26 13:43:31,375 basehttp 154 "GET /comment/30?page=1 HTTP/1.1" 200 6567
+INFO 2020-05-26 13:43:32,162 basehttp 154 "GET /comment/30?page=2 HTTP/1.1" 200 5595
+INFO 2020-05-26 13:43:32,953 basehttp 154 "GET /comment/30?page=1 HTTP/1.1" 200 6567
+INFO 2020-05-26 13:43:33,820 basehttp 154 "GET /comment/30?page=2 HTTP/1.1" 200 5595
+INFO 2020-05-26 13:43:36,132 basehttp 154 "GET /comment/30?page=1 HTTP/1.1" 200 6567
+INFO 2020-05-26 13:43:47,134 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 4754
+INFO 2020-05-26 13:43:48,289 basehttp 154 "GET /user/logout HTTP/1.1" 302 0
+INFO 2020-05-26 13:43:48,331 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:43:48,360 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:43:49,524 basehttp 154 "GET /play/2 HTTP/1.1" 200 9732
+INFO 2020-05-26 13:43:49,776 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 3901485
+INFO 2020-05-26 13:43:50,510 basehttp 154 "GET /comment/2 HTTP/1.1" 200 6581
+INFO 2020-05-26 13:44:01,012 basehttp 154 "GET /play/2 HTTP/1.1" 200 9732
+INFO 2020-05-26 13:44:04,690 basehttp 154 "GET /comment/2 HTTP/1.1" 200 6581
+INFO 2020-05-26 13:44:04,694 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 1343488
+INFO 2020-05-26 13:45:29,047 basehttp 154 "GET /play/30 HTTP/1.1" 200 10278
+INFO 2020-05-26 13:45:31,664 basehttp 154 "GET /comment/30?page=1 HTTP/1.1" 200 6567
+INFO 2020-05-26 13:45:31,669 basehttp 154 "GET /static/songFile/%E9%A3%9E%E4%BA%91%E4%B9%8B%E4%B8%8B.mp3 HTTP/1.1" 200 7536640
+INFO 2020-05-26 13:47:31,857 autoreload 597 Watching for file changes with StatReloader
+WARNING 2020-05-26 13:47:35,313 log 228 Not Found: /comment/30
+WARNING 2020-05-26 13:47:35,313 basehttp 154 "GET /comment/30?page=1 HTTP/1.1" 404 2755
+WARNING 2020-05-26 13:47:39,730 log 228 Not Found: /comment/30
+WARNING 2020-05-26 13:47:39,730 basehttp 154 "GET /comment/30?page=2 HTTP/1.1" 404 2755
+INFO 2020-05-26 13:47:43,108 basehttp 154 "GET /user/home/1 HTTP/1.1" 302 0
+INFO 2020-05-26 13:47:43,145 basehttp 154 "GET /user/login.html?next=/user/home/1 HTTP/1.1" 200 4664
+INFO 2020-05-26 13:47:46,249 basehttp 154 "POST /user/login.html?next=/user/home/1 HTTP/1.1" 302 0
+INFO 2020-05-26 13:47:46,266 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 4754
+INFO 2020-05-26 13:47:47,523 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:47:47,554 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:47:53,525 basehttp 154 "GET /play/2 HTTP/1.1" 200 10282
+INFO 2020-05-26 13:47:53,782 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 3901485
+INFO 2020-05-26 13:47:54,701 basehttp 154 "GET /comment/2.html HTTP/1.1" 200 6591
+INFO 2020-05-26 13:49:14,535 basehttp 154 "GET /comment/2.html HTTP/1.1" 200 6591
+INFO 2020-05-26 13:49:14,590 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 13:49:15,365 basehttp 154 "GET /comment/2.html HTTP/1.1" 200 6591
+INFO 2020-05-26 13:49:15,417 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+WARNING 2020-05-26 13:49:23,388 log 228 Not Found: /comment/5.html
+WARNING 2020-05-26 13:49:23,389 basehttp 154 "GET /comment/5.html HTTP/1.1" 404 1710
+INFO 2020-05-26 13:49:29,938 basehttp 154 "GET /comment/6.html HTTP/1.1" 200 4383
+INFO 2020-05-26 13:49:38,970 basehttp 154 "POST /comment/6.html HTTP/1.1" 302 0
+INFO 2020-05-26 13:49:38,989 basehttp 154 "GET /comment/6.html HTTP/1.1" 200 5358
+INFO 2020-05-26 13:49:47,326 basehttp 154 "POST /comment/6.html HTTP/1.1" 302 0
+INFO 2020-05-26 13:49:47,343 basehttp 154 "GET /comment/6.html HTTP/1.1" 200 6333
+INFO 2020-05-26 13:49:52,679 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:49:52,711 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:49:53,822 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 4754
+INFO 2020-05-26 13:49:55,915 basehttp 154 "GET /play/2 HTTP/1.1" 200 10282
+INFO 2020-05-26 13:49:56,173 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 3901485
+INFO 2020-05-26 13:49:57,307 basehttp 154 "GET /comment/2.html HTTP/1.1" 200 6591
+INFO 2020-05-26 13:54:35,095 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 13:54:37,236 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:54:37,358 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 13:54:37,534 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 13:55:09,911 basehttp 154 "GET /play/2 HTTP/1.1" 200 10282
+INFO 2020-05-26 13:55:10,329 basehttp 154 "GET /static/songFile/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B.mp3 HTTP/1.1" 200 3901485
+INFO 2020-05-26 13:55:11,021 basehttp 154 "GET /comment/2.html HTTP/1.1" 200 6591
+*** Starting uWSGI 2.0.18 (64bit) on [Tue May 26 21:55:52 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 10.0.1 (clang-1001.0.46.4) on 22 May 2020 13:05:30
+os: Darwin-18.7.0 Darwin Kernel Version 18.7.0: Mon Feb 10 21:08:45 PST 2020; root:xnu-4903.278.28~1/RELEASE_X86_64
+nodename: 192.168.0.101
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/yjp/Desktop/music
+writing pidfile to uwsgi.pid
+detected binary path: /Users/yjp/.workspace/django_music/bin/uwsgi
+chdir() to /Users/yjp/Desktop/music
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 10240
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address :8080 fd 3
+Python version: 3.6.4 (v3.6.4:d48ecebad5, Dec 18 2017, 21:07:28)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/yjp/.workspace/django_music
+Python main interpreter initialized at 0x7fc26800c600
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 500112 bytes (488 KB) for 20 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fc26800c600 pid: 8643 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 8643)
+spawned uWSGI worker 1 (pid: 8644, cores: 10)
+spawned uWSGI worker 2 (pid: 8645, cores: 10)
+INFO 2020-05-26 13:56:05,386 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 13:56:05,405 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 13:56:05,691 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+SIGINT/SIGQUIT received...killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Tue May 26 21:57:35 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 10.0.1 (clang-1001.0.46.4) on 22 May 2020 13:05:30
+os: Darwin-18.7.0 Darwin Kernel Version 18.7.0: Mon Feb 10 21:08:45 PST 2020; root:xnu-4903.278.28~1/RELEASE_X86_64
+nodename: 192.168.0.101
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/yjp/Desktop/music
+writing pidfile to uwsgi.pid
+detected binary path: /Users/yjp/.workspace/django_music/bin/uwsgi
+chdir() to /Users/yjp/Desktop/music
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 10240
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address :8080 fd 3
+Python version: 3.6.4 (v3.6.4:d48ecebad5, Dec 18 2017, 21:07:28)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/yjp/.workspace/django_music
+Python main interpreter initialized at 0x7fe981006800
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 500112 bytes (488 KB) for 20 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fe981006800 pid: 8718 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 8718)
+spawned uWSGI worker 1 (pid: 8719, cores: 10)
+spawned uWSGI worker 2 (pid: 8720, cores: 10)
+[pid: 8720|app: 0|req: 1/1] 127.0.0.1 () {52 vars in 1017 bytes} [Tue May 26 13:59:15 2020] GET / => generated 24307 bytes in 100 msecs (HTTP/1.1 200) 6 headers in 337 bytes (1 switches on core 0)
+[pid: 8720|app: 0|req: 2/2] 127.0.0.1 () {52 vars in 1053 bytes} [Tue May 26 13:59:25 2020] GET /user/home/1 => generated 4754 bytes in 14 msecs (HTTP/1.1 200) 6 headers in 336 bytes (2 switches on core 3)
+[pid: 8719|app: 0|req: 1/3] 127.0.0.1 () {52 vars in 1056 bytes} [Tue May 26 13:59:27 2020] GET /ranking => generated 24732 bytes in 93 msecs (HTTP/1.1 200) 6 headers in 337 bytes (1 switches on core 0)
+[pid: 8720|app: 0|req: 3/4] 127.0.0.1 () {52 vars in 1050 bytes} [Tue May 26 13:59:28 2020] GET /play/2 => generated 10282 bytes in 32 msecs (HTTP/1.1 200) 7 headers in 482 bytes (1 switches on core 6)
+[pid: 8719|app: 0|req: 2/5] 127.0.0.1 () {52 vars in 1065 bytes} [Tue May 26 13:59:29 2020] GET /comment/2.html => generated 6591 bytes in 16 msecs (HTTP/1.1 200) 6 headers in 336 bytes (2 switches on core 3)
+[pid: 8720|app: 0|req: 4/6] 127.0.0.1 () {60 vars in 1257 bytes} [Tue May 26 13:59:44 2020] POST /comment/2.html => generated 0 bytes in 10 msecs (HTTP/1.1 302) 6 headers in 195 bytes (2 switches on core 2)
+[pid: 8720|app: 0|req: 5/7] 127.0.0.1 () {54 vars in 1104 bytes} [Tue May 26 13:59:44 2020] GET /comment/2.html => generated 6728 bytes in 15 msecs (HTTP/1.1 200) 6 headers in 336 bytes (1 switches on core 9)
+[pid: 8719|app: 0|req: 3/8] 127.0.0.1 () {52 vars in 1086 bytes} [Tue May 26 13:59:45 2020] GET /comment/2.html?page=2 => generated 6834 bytes in 16 msecs (HTTP/1.1 200) 6 headers in 336 bytes (2 switches on core 6)
+[pid: 8719|app: 0|req: 4/9] 127.0.0.1 () {52 vars in 1093 bytes} [Tue May 26 13:59:46 2020] GET /comment/2.html?page=3 => generated 5748 bytes in 15 msecs (HTTP/1.1 200) 6 headers in 336 bytes (1 switches on core 2)
+SIGINT/SIGQUIT received...killing workers...
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Tue May 26 22:00:24 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 10.0.1 (clang-1001.0.46.4) on 22 May 2020 13:05:30
+os: Darwin-18.7.0 Darwin Kernel Version 18.7.0: Mon Feb 10 21:08:45 PST 2020; root:xnu-4903.278.28~1/RELEASE_X86_64
+nodename: 192.168.0.101
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/yjp/Desktop/music
+writing pidfile to uwsgi.pid
+detected binary path: /Users/yjp/.workspace/django_music/bin/uwsgi
+chdir() to /Users/yjp/Desktop/music
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 10240
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address :8080 fd 3
+Python version: 3.6.4 (v3.6.4:d48ecebad5, Dec 18 2017, 21:07:28)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Set PythonHome to /Users/yjp/.workspace/django_music
+Python main interpreter initialized at 0x7ffce8806600
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 500112 bytes (488 KB) for 20 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7ffce8806600 pid: 8802 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 8802)
+spawned uWSGI worker 1 (pid: 8803, cores: 10)
+spawned uWSGI worker 2 (pid: 8804, cores: 10)
+WARNING log 228 Not Found: /comment/2.html
+WARNING 2020-05-26 14:00:31,766 log 228 Not Found: /comment/2.html
+[pid: 8804|app: 0|req: 1/1] 127.0.0.1 () {54 vars in 1124 bytes} [Tue May 26 14:00:31 2020] GET /comment/2.html?page=3 => generated 2762 bytes in 53 msecs (HTTP/1.1 404) 5 headers in 160 bytes (1 switches on core 0)
+WARNING log 228 Not Found: /favicon.ico
+WARNING 2020-05-26 14:00:31,873 log 228 Not Found: /favicon.ico
+[pid: 8804|app: 0|req: 2/2] 127.0.0.1 () {52 vars in 978 bytes} [Tue May 26 14:00:31 2020] GET /favicon.ico => generated 2664 bytes in 10 msecs (HTTP/1.1 404) 5 headers in 160 bytes (1 switches on core 3)
+[pid: 8803|app: 0|req: 1/3] 127.0.0.1 () {52 vars in 1038 bytes} [Tue May 26 14:00:37 2020] GET / => generated 24307 bytes in 99 msecs (HTTP/1.1 200) 6 headers in 337 bytes (1 switches on core 0)
+[pid: 8804|app: 0|req: 3/4] 127.0.0.1 () {52 vars in 1053 bytes} [Tue May 26 14:00:55 2020] GET /user/home/1 => generated 4754 bytes in 36 msecs (HTTP/1.1 200) 6 headers in 336 bytes (1 switches on core 2)
+[pid: 8803|app: 0|req: 2/5] 127.0.0.1 () {52 vars in 1064 bytes} [Tue May 26 14:00:56 2020] GET /user/logout => generated 0 bytes in 10 msecs (HTTP/1.1 302) 7 headers in 258 bytes (2 switches on core 8)
+[pid: 8804|app: 0|req: 4/6] 127.0.0.1 () {52 vars in 998 bytes} [Tue May 26 14:00:56 2020] GET / => generated 24307 bytes in 27 msecs (HTTP/1.1 200) 6 headers in 337 bytes (1 switches on core 1)
+[pid: 8804|app: 0|req: 5/7] 127.0.0.1 () {52 vars in 1009 bytes} [Tue May 26 14:00:57 2020] GET /user/home/1 => generated 0 bytes in 3 msecs (HTTP/1.1 302) 6 headers in 214 bytes (1 switches on core 6)
+[pid: 8804|app: 0|req: 6/8] 127.0.0.1 () {52 vars in 1052 bytes} [Tue May 26 14:00:57 2020] GET /user/login.html?next=/user/home/1 => generated 4664 bytes in 22 msecs (HTTP/1.1 200) 6 headers in 336 bytes (2 switches on core 5)
+[pid: 8804|app: 0|req: 7/9] 127.0.0.1 () {60 vars in 1269 bytes} [Tue May 26 14:01:00 2020] POST /user/login.html?next=/user/home/1 => generated 0 bytes in 197 msecs (HTTP/1.1 302) 8 headers in 505 bytes (2 switches on core 8)
+[pid: 8804|app: 0|req: 8/10] 127.0.0.1 () {54 vars in 1117 bytes} [Tue May 26 14:01:00 2020] GET /user/home/1 => generated 3751 bytes in 14 msecs (HTTP/1.1 200) 6 headers in 336 bytes (1 switches on core 9)
+[pid: 8803|app: 0|req: 3/11] 127.0.0.1 () {52 vars in 1042 bytes} [Tue May 26 14:01:02 2020] GET / => generated 24307 bytes in 28 msecs (HTTP/1.1 200) 6 headers in 337 bytes (2 switches on core 7)
+[pid: 8804|app: 0|req: 9/12] 127.0.0.1 () {52 vars in 1047 bytes} [Tue May 26 14:01:05 2020] GET /play/104 => generated 11559 bytes in 25 msecs (HTTP/1.1 200) 7 headers in 482 bytes (1 switches on core 0)
+[pid: 8804|app: 0|req: 10/13] 127.0.0.1 () {52 vars in 1061 bytes} [Tue May 26 14:01:06 2020] GET /comment/104 => generated 4379 bytes in 16 msecs (HTTP/1.1 200) 6 headers in 336 bytes (1 switches on core 4)
+[pid: 8803|app: 0|req: 4/14] 127.0.0.1 () {60 vars in 1248 bytes} [Tue May 26 14:01:18 2020] POST /comment/104 => generated 0 bytes in 10 msecs (HTTP/1.1 302) 6 headers in 192 bytes (2 switches on core 1)
+[pid: 8804|app: 0|req: 11/15] 127.0.0.1 () {54 vars in 1095 bytes} [Tue May 26 14:01:18 2020] GET /comment/104 => generated 5351 bytes in 16 msecs (HTTP/1.1 200) 6 headers in 336 bytes (2 switches on core 2)
+[pid: 8804|app: 0|req: 12/16] 127.0.0.1 () {52 vars in 1042 bytes} [Tue May 26 14:02:27 2020] GET / => generated 24307 bytes in 31 msecs (HTTP/1.1 200) 6 headers in 337 bytes (1 switches on core 1)
+[pid: 8804|app: 0|req: 13/17] 127.0.0.1 () {52 vars in 1022 bytes} [Tue May 26 14:02:33 2020] GET /admin/ => generated 7378 bytes in 37 msecs (HTTP/1.1 200) 7 headers in 271 bytes (1 switches on core 6)
+[pid: 8803|app: 0|req: 5/18] 127.0.0.1 () {50 vars in 998 bytes} [Tue May 26 14:02:34 2020] GET /admin/ => generated 7378 bytes in 33 msecs (HTTP/1.1 200) 7 headers in 271 bytes (2 switches on core 9)
+[pid: 8803|app: 0|req: 6/19] 127.0.0.1 () {52 vars in 1077 bytes} [Tue May 26 14:02:36 2020] GET /admin/index/comment/ => generated 22134 bytes in 107 msecs (HTTP/1.1 200) 8 headers in 440 bytes (2 switches on core 2)
+[pid: 8804|app: 0|req: 14/20] 127.0.0.1 () {48 vars in 893 bytes} [Tue May 26 14:02:36 2020] GET /admin/jsi18n/ => generated 7722 bytes in 13 msecs (HTTP/1.1 200) 5 headers in 176 bytes (1 switches on core 5)
+INFO 2020-05-26 14:06:06,500 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 14:06:34,449 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 14:06:36,746 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 14:06:36,804 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 14:06:36,929 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 14:06:39,151 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 4255
+INFO 2020-05-26 14:06:40,551 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 14:06:40,595 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 14:06:42,676 basehttp 154 "GET /play/30 HTTP/1.1" 200 10284
+INFO 2020-05-26 14:06:53,881 basehttp 154 "GET /comment/30 HTTP/1.1" 200 6567
+INFO 2020-05-26 14:06:53,887 basehttp 154 "GET /static/songFile/%E9%A3%9E%E4%BA%91%E4%B9%8B%E4%B8%8B.mp3 HTTP/1.1" 200 7299072
+INFO 2020-05-26 14:08:45,503 basehttp 154 "GET /user/home/1 HTTP/1.1" 200 4758
+INFO 2020-05-26 14:08:46,639 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 14:08:46,671 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 14:08:58,020 basehttp 154 "GET /play/71 HTTP/1.1" 200 10814
+INFO 2020-05-26 14:08:58,292 basehttp 154 "GET /static/songFile/%E8%85%BB%E5%91%B3.mp3 HTTP/1.1" 200 3969402
+INFO 2020-05-26 14:09:41,923 basehttp 154 "GET /comment/71 HTTP/1.1" 200 4366
+INFO 2020-05-26 14:09:52,064 basehttp 154 "GET /comment/71 HTTP/1.1" 200 4366
+INFO 2020-05-26 14:09:52,119 basehttp 154 "GET /static/favicon.ico HTTP/1.1" 200 1150
+INFO 2020-05-26 14:10:09,422 basehttp 154 "POST /comment/71 HTTP/1.1" 302 0
+INFO 2020-05-26 14:10:12,714 basehttp 154 "GET /comment/71 HTTP/1.1" 200 5335
+INFO 2020-05-26 14:13:54,017 autoreload 217 /Users/yjp/Desktop/music/comment/views.py changed, reloading.
+INFO 2020-05-26 14:13:55,131 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 14:15:33,928 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 14:15:34,014 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 14:15:36,114 basehttp 154 "GET /play/1 HTTP/1.1" 200 11342
+INFO 2020-05-26 14:15:36,322 autoreload 217 /Users/yjp/Desktop/music/comment/views.py changed, reloading.
+INFO 2020-05-26 14:15:37,550 autoreload 597 Watching for file changes with StatReloader
+ERROR 2020-05-26 14:15:42,229 log 228 Internal Server Error: /comment/1
+Traceback (most recent call last):
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/views/generic/base.py", line 62, in view
+    self = cls(**initkwargs)
+TypeError: __init__() missing 1 required positional argument: 'song_id'
+ERROR 2020-05-26 14:15:42,234 basehttp 154 "GET /comment/1 HTTP/1.1" 500 68848
+WARNING 2020-05-26 14:15:42,487 log 228 Not Found: /favicon.ico
+WARNING 2020-05-26 14:15:42,489 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2664
+INFO 2020-05-26 14:16:00,973 autoreload 597 Watching for file changes with StatReloader
+ERROR 2020-05-26 14:16:02,689 log 228 Internal Server Error: /comment/1
+Traceback (most recent call last):
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/views/generic/base.py", line 62, in view
+    self = cls(**initkwargs)
+TypeError: __init__() missing 1 required positional argument: 'song_id'
+ERROR 2020-05-26 14:16:02,690 basehttp 154 "GET /comment/1 HTTP/1.1" 500 67256
+INFO 2020-05-26 14:16:06,203 basehttp 154 "GET /play/71 HTTP/1.1" 200 11352
+INFO 2020-05-26 14:16:06,445 basehttp 154 "GET /static/songFile/%E8%85%BB%E5%91%B3.mp3 HTTP/1.1" 200 3969402
+ERROR 2020-05-26 14:16:08,278 log 228 Internal Server Error: /comment/71
+Traceback (most recent call last):
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/yjp/.workspace/django_music/lib/python3.6/site-packages/django/views/generic/base.py", line 62, in view
+    self = cls(**initkwargs)
+TypeError: __init__() missing 1 required positional argument: 'song_id'
+ERROR 2020-05-26 14:16:08,279 basehttp 154 "GET /comment/71 HTTP/1.1" 500 67139
+INFO 2020-05-26 14:17:18,620 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 14:17:20,876 basehttp 154 "GET /comment/71 HTTP/1.1" 200 5335
+INFO 2020-05-26 14:17:30,125 basehttp 154 "GET / HTTP/1.1" 200 24307
+WARNING 2020-05-26 14:17:30,171 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+WARNING 2020-05-26 14:17:30,282 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 404 1693
+INFO 2020-05-26 14:17:31,937 basehttp 154 "GET /play/71 HTTP/1.1" 200 11352
+INFO 2020-05-26 14:17:32,219 basehttp 154 "GET /static/songFile/%E8%85%BB%E5%91%B3.mp3 HTTP/1.1" 200 3969402
+INFO 2020-05-26 14:17:32,725 basehttp 154 "GET /comment/71 HTTP/1.1" 200 5335
+INFO 2020-05-26 14:17:55,310 autoreload 217 /Users/yjp/Desktop/music/comment/views.py changed, reloading.
+INFO 2020-05-26 14:17:55,791 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 14:18:28,863 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-05-26 14:22:22,872 basehttp 154 "GET /admin HTTP/1.1" 301 0
+INFO 2020-05-26 14:22:22,917 basehttp 154 "GET /admin/ HTTP/1.1" 200 7378
+INFO 2020-05-26 14:22:22,955 basehttp 154 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2020-05-26 14:22:22,967 basehttp 154 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2020-05-26 14:22:22,967 basehttp 154 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2020-05-26 14:22:22,973 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2020-05-26 14:22:22,989 basehttp 154 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2020-05-26 14:22:22,989 basehttp 154 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2020-05-26 14:22:22,990 basehttp 154 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO 2020-05-26 14:22:23,044 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2020-05-26 14:22:23,044 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO 2020-05-26 14:22:23,045 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2020-05-26 14:22:25,128 basehttp 154 "GET /admin/index/dynamic/ HTTP/1.1" 200 11916
+INFO 2020-05-26 14:22:25,157 basehttp 154 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+INFO 2020-05-26 14:22:25,165 basehttp 154 "GET /static/admin/js/core.js HTTP/1.1" 200 7134
+INFO 2020-05-26 14:22:25,168 basehttp 154 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+INFO 2020-05-26 14:22:25,172 basehttp 154 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6897
+INFO 2020-05-26 14:22:25,172 basehttp 154 "GET /static/admin/js/actions.js HTTP/1.1" 200 6502
+INFO 2020-05-26 14:22:25,177 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2020-05-26 14:22:25,178 basehttp 154 "GET /static/admin/js/urlify.js HTTP/1.1" 200 8729
+INFO 2020-05-26 14:22:25,182 basehttp 154 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+INFO 2020-05-26 14:22:25,182 basehttp 154 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+INFO 2020-05-26 14:22:25,183 basehttp 154 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+INFO 2020-05-26 14:22:25,189 basehttp 154 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2020-05-26 14:22:25,216 basehttp 154 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2020-05-26 14:22:25,217 basehttp 154 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2020-05-26 14:22:28,494 basehttp 154 "GET /admin/ HTTP/1.1" 200 7378
+INFO 2020-05-26 14:22:29,443 basehttp 154 "GET /admin/index/label/ HTTP/1.1" 200 7013
+INFO 2020-05-26 14:22:29,475 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2020-05-26 14:22:31,915 basehttp 154 "GET /admin/ HTTP/1.1" 200 7378
+INFO 2020-05-26 14:22:32,885 basehttp 154 "GET /admin/index/song/ HTTP/1.1" 200 70459
+INFO 2020-05-26 14:22:32,933 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2020-05-26 14:22:38,994 basehttp 154 "GET /admin/ HTTP/1.1" 200 7378
+INFO 2020-05-26 14:22:44,562 basehttp 154 "GET /admin/index/song/ HTTP/1.1" 200 70459
+INFO 2020-05-26 14:22:44,598 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2020-05-26 14:22:47,957 basehttp 154 "GET /admin/index/song/?q=She HTTP/1.1" 200 28217
+INFO 2020-05-26 14:22:47,991 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2020-05-26 14:22:51,600 basehttp 154 "GET /admin/index/song/103/change/?_changelist_filters=q%3DShe HTTP/1.1" 200 10514
+INFO 2020-05-26 14:22:51,630 basehttp 154 "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+INFO 2020-05-26 14:22:51,638 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2020-05-26 14:22:51,639 basehttp 154 "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+INFO 2020-05-26 14:22:51,640 basehttp 154 "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+INFO 2020-05-26 14:22:51,644 basehttp 154 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+INFO 2020-05-26 14:22:59,100 basehttp 154 "GET /admin/index/song/103/delete/?_changelist_filters=q%3DShe HTTP/1.1" 200 3368
+INFO 2020-05-26 14:22:59,129 basehttp 154 "GET /static/admin/js/cancel.js HTTP/1.1" 200 204
+INFO 2020-05-26 14:23:00,256 basehttp 154 "POST /admin/index/song/103/delete/?_changelist_filters=q%3DShe HTTP/1.1" 302 0
+INFO 2020-05-26 14:23:00,332 basehttp 154 "GET /admin/index/song/?q=She HTTP/1.1" 200 26039
+INFO 2020-05-26 14:23:00,372 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2020-05-26 14:23:00,394 basehttp 154 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2020-05-26 14:23:02,987 basehttp 154 "POST /admin/index/song/?q=She HTTP/1.1" 302 0
+INFO 2020-05-26 14:23:03,049 basehttp 154 "GET /admin/index/song/?q=She HTTP/1.1" 200 26055
+INFO 2020-05-26 14:23:03,080 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2020-05-26 14:23:03,098 basehttp 154 "GET /static/admin/img/icon-alert.svg HTTP/1.1" 200 504

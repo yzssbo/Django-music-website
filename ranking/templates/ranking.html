@@ -46,7 +46,7 @@
             {% for item in All_list  %}
                 <li class="computer">
                 <div class="main-cate">
-                    <a href="{% url 'ranking' %}?type={{ item.song_type }}" class="main-title">{{ item.song_type }}</a>
+                    <a href="{% url 'ranking' %}?type={{ item.song_company }}" class="main-title">{{ item.song_company }}</a>
                 </div>
                 </li>
             {% endfor  %}
