@@ -1,5 +1,5 @@
 Django==2.2.5
-lxml==4.0.0
+lxml==4.6.5
 PyMySQL==0.9.3
 requests==2.23.0
 sqlparse==0.3.1
